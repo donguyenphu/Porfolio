@@ -23,6 +23,7 @@
     background-color: #44566C;
     border-radius: 15px;
     margin-bottom: 20px;
+    align-items: center;
 }
 .allAMEBwrapper, .allIELTSwrapper, .allCourseraWrapper, .allZENDVNwrapper, .allGPAwrapper,  .allINTROARTwrapper {
     padding: 40px;
