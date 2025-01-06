@@ -30,10 +30,9 @@
     background-color: #c2c0c0;
     border-radius: 15px;
     margin-bottom: 20px;
-    /* align-items: center; */
 }
-.IELTSimageMain, .Coursera1Main, .Coursera2Main, .Coursera3Main, .Coursera4Main, .Coursera5Main, .AMEBleftMain, .AMEBmidMain, .AMEBrightMain, .ZENDVNleftMain, .ZENDVNmidMain, .ZENDVNrightMain, .imageGPAmain {
-    /* border: 2px solid black; */
+.AMEBleftMain, .AMEBmidMain, .AMEBrightMain {
+    flex: 1;
 }
 .IELTSintroductionWrapper {
     width: 50%;
@@ -71,21 +70,16 @@
 .allAMEBimageWrapper {
     display: flex;
     gap: 15px;
-    align-items: center;
 }
 .AMEBleftMain ,.AMEBmidMain ,.AMEBrightMain {
     width: 100%;
     height: 100%;
     border-radius: 15px;
 }
-.AMEBleftWrapper {
-    width: 47.5%;
-    /* transform: rotate(90deg); */
-}
-.AMEBmidWrapper, .AMEBrightWrapper {
-    width: 26.25%;
+.AMEBleftWrapper, .AMEBmidWrapper, .AMEBrightWrapper {
+    width: 33.33%;
+    object-fit: cover;
     transform: rotate(180deg);
-    /* overflow: hidden; */
 }
 .allCourseraImageWrapper {
     gap: 15px;
