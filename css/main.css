@@ -5,6 +5,10 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    transition: 0.4s all ease-in-out;
+}   
+img:hover {
+    transform: translateY(-10px);
 }
 .container {
     padding: 50px;
@@ -55,6 +59,10 @@ header {
     padding-right: 15px;
     padding-top: 8px;
     padding-bottom: 8px;
+    transition: 0.4s all ease-in-out;
+}
+.sectionElement:hover {
+    transform: scale(1.1);
 }
 .sectionLink {
     text-decoration: none;

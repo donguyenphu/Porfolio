@@ -6,23 +6,22 @@
     background-image: linear-gradient(to right, rgb(222, 159, 211), rgb(225, 66, 182));
     -webkit-background-clip: text;
     color: transparent; 
+}
+#HHH, #ICM, #HPO {
     font-weight: 600;
     font-size: 25px;
     transition: 0.4s;
     transform: rotate(0deg);
     display: inline-block;
 }
-
 #HHH:hover {
     transform: rotate(-5deg);
 }
-
-#HHHreverse {
-    background-image: linear-gradient(to right, rgb(225, 66, 182),rgb(222, 159, 211));
-    -webkit-background-clip: text;
-    color: transparent; 
-    font-weight: 600;
-    font-size: 25px;
+#ICM:hover {
+    transform: rotate(-5deg);
+}
+#HPO:hover {
+    transform: rotate(-5deg);
 }
 #HHHbeginWrapper {
     display: flex;
@@ -43,8 +42,6 @@
     background-image: linear-gradient(to right, rgb(234, 144, 144), rgb(197, 14, 14));
     -webkit-background-clip: text;
     color: transparent; 
-    font-weight: 600;
-    font-size: 25px;
 }
 #HPObeginWrapper {
     display: flex;
@@ -64,15 +61,6 @@
     background-image: linear-gradient(to right, rgb(144, 169, 234), rgb(14, 75, 197));
     -webkit-background-clip: text;
     color: transparent; 
-    font-weight: 600;
-    font-size: 25px;
-}
-#ICMreverse {
-    background-image: linear-gradient(to right,rgb(14, 75, 197), rgb(144, 169, 234));
-    -webkit-background-clip: text;
-    color: transparent; 
-    font-weight: 600;
-    font-size: 25px;
 }
 #ICMbeginWrapper {
     display: flex;
@@ -247,6 +235,24 @@
     -webkit-background-clip: text;
     color: transparent; 
 }
+.HPOarrowDown {
+    transition: 0.4s all ease-in-out;
+}
+.HPOarrowDown:hover {
+    transform: scale(1.1);
+    animation: bounce 1s infinite;
+}
+@keyframes bounce{
+    0%,100% {
+        transform: translateY(0)
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+}
+.HPOarrowDown:hover {
+
+}
 .HPOvideoMain {
     text-decoration: none;
     font-size: 30px;
@@ -254,6 +260,11 @@
     background-image: linear-gradient(to right, rgb(221, 128, 128), rgb(255, 0, 0));
     -webkit-background-clip: text;
     color: transparent; 
+    transform: scale(1);
+    transition: 0.4s all ease-in-out;
+}
+.HPOvideoMain:hover {
+    transform: scale(1.1);
 }
 .imageAngelWrapper, .imageNGOTWrapper {
     display: flex;

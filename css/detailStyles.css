@@ -14,7 +14,12 @@
     font-family: "Roboto", sans-serif;
     background-image: linear-gradient(to right, rgb(106, 9, 233), rgb(156, 140, 187));
     -webkit-background-clip: text;
-    color: transparent;  
+    color: transparent; 
+    transition: 0.4s all ease-in-out; 
+    transition: scale(1);
+}
+.aboutMeTitleMain:hover {
+    transform: scale(1.1);
 }
 .lineAndTitleWrapper {
     display: flex;
