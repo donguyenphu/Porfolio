@@ -224,6 +224,10 @@
     -webkit-background-clip: text;
     color: transparent; 
 }
+.HPOvideoIntroduce:hover {
+    color: red;
+    transform: scale(1.05);
+}
 .arrowAndVideoWrapper {
     text-align: center;
     margin-top: 10px;
