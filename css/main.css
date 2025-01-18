@@ -7,6 +7,9 @@
     box-sizing: border-box;
     transition: 0.4s all ease-in-out;
 }   
+.active {
+    background-color: whitesmoke;
+}
 img:hover {
     transform: translateY(-10px);
 }
@@ -62,7 +65,7 @@ header {
     transition: 0.4s all ease-in-out;
 }
 .sectionElement:hover {
-    transform: scale(1.1);
+    transform: scale(1.25);
 }
 .sectionLink {
     text-decoration: none;
