@@ -138,19 +138,11 @@
     width: 54.30%;
 }
 /* OUTLNE BEGIN */
-.outlineActivitiesWrapper {
-    margin-bottom: 50px;
-    padding: 20px;
-}
-#HHHwrapper, #ICMwrapper, #HPOwrapper {
-    margin-bottom: 50px;
+.descriptionWrapper {
+    margin-bottom: 30px;
+    margin-top: 30px;
     padding: 20px;
     border-radius: 10px;
-}
-#HHHwrapper, #HPOwrapper {
-    background-color: rgb(225, 223, 223);
-}
-#ICMwrapper {   
     background-color: rgb(225, 223, 223);
 }
 .introduce1wrapper, .introduce2wrapper {
@@ -187,26 +179,17 @@
     font-weight: 400;
     line-height: 1.5;
 }
-
+.text1main:hover {
+    transform: scale(1.03);
+}
 .angelICMprojectMain {
     text-indent: 20px;
     line-height: 1.5;
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Noto Sans', sans-serif;
     font-weight: 500;
     font-style: italic;
     background-image: linear-gradient(to right, rgb(41, 225, 170), rgb(241, 48, 199));
-    -webkit-background-clip: text;
-    color: transparent; 
-}
-.NGOThhhProjectMain {
-    text-indent: 20px;
-    line-height: 1.5;
-    font-size:30px;
-    font-family: 'Noto Sans', sans-serif;
-    font-weight: 500;
-    font-style: italic;
-    background-image: linear-gradient(to right, rgb(103, 156, 225), rgb(238, 106, 209));
     -webkit-background-clip: text;
     color: transparent; 
 }
@@ -254,9 +237,6 @@
         transform: translateY(-20px);
     }
 }
-.HPOarrowDown:hover {
-
-}
 .HPOvideoMain {
     text-decoration: none;
     font-size: 30px;
@@ -289,3 +269,30 @@
 /* OUTLINE END */
 /* https://www.facebook.com/100006030005990/videos/pcb.2483873688490274/1402169030457781 */
 /* DRAWING IN Hoa Phuong Orphanage */
+.imageStorageWrapper {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    align-items: stretch;
+}
+.imageOnlyWrapper {
+    width: 50%;
+    height: auto;
+}
+.imageOnlyMain {
+    border-radius: 15px;
+}
+.center {
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    font-size: 30px;
+}
+.center:hover {
+    transform: scale(1.05);
+    background-image: linear-gradient(to right, rgb(222, 58, 195), rgb(235, 4, 173));
+    -webkit-background-clip: text;
+    color: transparent; 
+}
+
