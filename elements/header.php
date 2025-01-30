@@ -34,7 +34,7 @@
             $active = 'active';
         }
         $htmlMenus .=  '<div class="sectionElement '.$active.'">
-                            <a href="'.$value['link'].'" class="sectionLink">'.$value['name'].'</a>
+                            <a href="'.$level.$value['link'].'" class="sectionLink">'.$value['name'].'</a>
                         </div> ';
     }
 ?>

@@ -2,6 +2,9 @@
     display: flex;
     gap: 10px;
 }
+.introductionWrapper {
+    margin-bottom: 20px;
+}
 #HHH {
     background-image: linear-gradient(to right, rgb(222, 159, 211), rgb(225, 66, 182));
     -webkit-background-clip: text;
@@ -27,16 +30,6 @@
     display: flex;
     gap: 20px;
     margin-bottom: 30px;
-}
-.HHHimage {
-    width: 100%;
-    border-radius: 10px;
-}
-.HHHbeginMainLeft {
-    width: 70%;
-}
-.HHHbeginMainRight {
-    width: 30%;
 }
 #HPO {
     background-image: linear-gradient(to right, rgb(234, 144, 144), rgb(197, 14, 14));
@@ -68,75 +61,6 @@
     gap: 15px;
     margin-bottom: 30px;
 }
-#icmLeft {
-    width: 50%;
-}
-#icmMid {
-    width: 28.5%;
-}
-#icmRight {
-    width: 21.5%;;
-}
-.icmLeftMain {
-    width: 100%;
-    border-radius: 10px;
-}
-.icmMidMain {
-    width: 100%;
-    border-radius: 10px;
-}
-.icmRightMain {
-    width: 100%;
-    border-radius: 10px;
-}
-#HHHendWrapper {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    margin-bottom: 30px;
-}
-.HHHleftMain {
-    width: 100%;
-    border-radius: 10px;
-}
-.HHHmidMain {
-    width: 100%;
-    border-radius: 10px;
-}
-.HHHirightMain {
-    width: 100%;
-    border-radius: 10px;
-}
-/* > - < */
-#HHHleft {
-    width: 32%;
-}
-#HHHmid {
-    width: 39%;
-}
-#HHHright {
-    width: 29%;
-}
-.ICMleftMain2 {
-    width: 100%;
-    border-radius: 10px;
-}
-.ICMrightMain2 {
-    width: 100%;
-    border-radius: 10px;
-}
-#ICMendWrapper {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    margin-bottom: 30px;
-}
-.ICMleft2 {
-    width: 45.70%;
-}
-.ICMright2 {
-    width: 54.30%;
-}
 /* OUTLNE BEGIN */
 .descriptionWrapper {
     margin-bottom: 30px;
@@ -145,7 +69,10 @@
     border-radius: 10px;
     background-color: rgb(225, 223, 223);
 }
-.introduce1wrapper, .introduce2wrapper {
+.text1wrapper {
+    padding: 0 20px 0 20px;
+}
+.introduce1wrapper, .introduce2wrapper, .introduce3wrapper {
     margin-bottom: 15px;
 }
 .text2main, .text1main {
@@ -155,12 +82,22 @@
     text-indent: 20px;
     font-size: 25px;
 }
+.activities {
+    color: rgb(207, 190, 190);
+    font-family: 'Poppins',sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+.activities:hover {
+    transform: scale(1.04);
+}
 .introduce1main, .introduce2main, .introduce3main {
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
+    font-weight: 600;
 }
 .introduce2main {
-    background-image: linear-gradient(to right, rgb(85, 125, 225), rgb(3, 24, 68));
+    background-image: linear-gradient(to right, rgb(85, 125, 225), rgb(8, 53, 151));
     -webkit-background-clip: text;
     color: transparent;
 }
@@ -176,19 +113,18 @@
 }
 .text1main, .text2main {
     font-family: 'Poppins', sans-serif;
-    font-weight: 400;
-    line-height: 1.5;
+    font-weight: 600;
+    line-height: 1.6;
 }
 .text1main:hover {
     transform: scale(1.03);
 }
 .angelICMprojectMain {
     text-indent: 20px;
-    line-height: 1.5;
+    line-height: 1.6;
     font-size: 25px;
     font-family: 'Noto Sans', sans-serif;
-    font-weight: 500;
-    font-style: italic;
+    font-weight: 600;
     background-image: linear-gradient(to right, rgb(41, 225, 170), rgb(241, 48, 199));
     -webkit-background-clip: text;
     color: transparent; 
@@ -250,22 +186,6 @@
 .HPOvideoMain:hover {
     transform: scale(1.1);
 }
-.imageAngelWrapper, .imageNGOTWrapper {
-    display: flex;
-    gap: 10px;
-    margin-top: 15px;
-}
-.icmAngelLeft, .icmAngelMid, .icmAngelRight, .icmAngelRightEnd {
-    width: 25%;
-}
-.icmAngelRightMain, .icmAngelMidMain, .icmAngelLeftMain, .icmAngelEndMain {
-    width: 100%;
-    border-radius: 10px;
-}
-.NGOTleftMain, .imgNGOTmidMain, .NGOTrightMain, .NGOTendMain {
-    width: 100%;
-    border-radius: 10px;
-}
 /* OUTLINE END */
 /* https://www.facebook.com/100006030005990/videos/pcb.2483873688490274/1402169030457781 */
 /* DRAWING IN Hoa Phuong Orphanage */
@@ -291,8 +211,16 @@
 }
 .center:hover {
     transform: scale(1.05);
-    background-image: linear-gradient(to right, rgb(222, 58, 195), rgb(235, 4, 173));
+    background-image: linear-gradient(to right, rgb(41, 225, 170), rgb(241, 48, 199));
     -webkit-background-clip: text;
     color: transparent; 
+}
+.activitiesImageWrapper {
+    margin: auto;
+    width: 85%;
+}
+.activitiesImageMain {
+    border-radius: 15px;
+    max-height: 90vh;
 }
 
