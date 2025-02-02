@@ -11,7 +11,7 @@
 }
 /* SOCIAL START */
 .social {
-    background-image: linear-gradient(to right, rgb(216, 216, 216),rgb(152, 150, 155));
+    background-image: var(--social-button-color);
     -webkit-background-clip: text;
     color: transparent; 
     font-size: 50px;
@@ -28,5 +28,25 @@
 }
 .socialElementWrapper:hover {
     transform: translateY(-10px);
+}
+#theme-switch {
+    height: 50px;
+    width: 50px;
+    padding: 0;
+    border-radius: 50%;
+    background-color: var(--dark-light-button);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+#theme-switch svg:last-child {
+    display: none;
+}
+.darkmode #theme-switch svg:first-child {
+    display: none;
+}
+.darkmode #theme-switch svg:last-child {
+    display: block;
 }
 /* SOCIAL END */

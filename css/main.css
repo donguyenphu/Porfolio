@@ -6,7 +6,21 @@
     padding: 0px;
     box-sizing: border-box;
     transition: 0.4s all ease-in-out;
-}   
+}
+:root {
+    --dark-light-button: white;
+    --background-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    --active-selected-button-color: whitesmoke;
+    --logo-color : color: rgb(106, 4, 153);
+    --social-button-color: linear-gradient(to right, rgb(216, 216, 216),rgb(152, 150, 155));
+}
+.darkmode {
+    --dark-light-button: white;
+    --background-color: linear-gradient(135deg, #f0f0f0, #838383, #474646);
+    --active-selected-button-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    --logo-color : black;
+    --social-button-color: linear-gradient(90deg, rgb(99, 100, 100) 0%, rgb(180, 180, 180) 35%, rgb(255, 255, 255) 100%);
+}
 img {
     width: 100%;
     height: 100%;
@@ -17,7 +31,7 @@ a {
     transition: 0.4s all ease-in-out;
 }
 .active {
-    background-color: whitesmoke;
+    background-color: var(--active-selected-button-color);
 }
 img:hover {
     transform: translateY(-10px);
@@ -29,8 +43,7 @@ img:hover {
     margin-bottom: 100px;
 }
 body {
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background: var(--background-color);
 }
 header {
     margin-bottom: 40px;

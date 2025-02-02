@@ -17,6 +17,7 @@
         [
             'name' => 'Activities',
             'link' => 'activities.php',
+            'child' => ['HHH.php', 'HPO.php', 'ICM.php', 'HHHstorage.php']
         ],
         [
             'name' => 'Reward',
@@ -42,7 +43,7 @@
     <div class="headerWrapper">
         <div class="fullBrand">
             <div class="logo"><i class="fa-solid fa-laptop"></i></div>
-            <a href="index.php" class="brandName">DoPhu</a>
+            <a href="index.php" class="brandName">Porfolio</a>
         </div>  
         <div class="smallSectionsWrapper">
             <?php echo $htmlMenus; ?>
