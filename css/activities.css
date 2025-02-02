@@ -94,7 +94,7 @@
 .introduce1main, .introduce2main, .introduce3main {
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
-    font-weight: 600;
+    font-weight: 700;
 }
 .introduce2main {
     background-image: linear-gradient(to right, rgb(85, 125, 225), rgb(8, 53, 151));
@@ -104,7 +104,7 @@
 .introduce1main {
     background-image: linear-gradient(to right, rgb(222, 58, 195), rgb(235, 4, 173));
     -webkit-background-clip: text;
-    color: transparent; 
+    color: transparent;
 }
 .introduce3main {
     background-image: linear-gradient(to right, rgb(209, 91, 91), rgb(235, 4, 4));

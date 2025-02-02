@@ -89,3 +89,12 @@ header {
 .sectionElement.active {
     background-color: #fff;
 }
+#preloader {
+    background: black url('../images/299.gif') no-repeat center center;
+    background-size: 15% auto;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 999999;
+    transition: opacity 0.8s ease-in-out, transform 0.6s ease-in-out;
+}

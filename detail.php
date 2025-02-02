@@ -8,6 +8,7 @@
     <title>Personal Details</title>
 </head>
 <body>
+    <div id="preloader"></div>
     <div class="container">
         <?php require_once './elements/header.php'; ?>
         <div class="seperate"></div>
@@ -85,5 +86,6 @@
             </div>
         </div>
     </div>
+    <script src = "./loader/loader.js"></script>
 </body>
 </html>
