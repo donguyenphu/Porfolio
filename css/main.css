@@ -11,15 +11,21 @@
     --dark-light-button: white;
     --background-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,9,121,1) 35%, rgba(0,212,255,1) 100%);
     --active-selected-button-color: whitesmoke;
-    --logo-color : color: rgb(106, 4, 153);
     --social-button-color: linear-gradient(to right, rgb(216, 216, 216),rgb(152, 150, 155));
+    --logo: rgb(106, 4, 153);
+    --logo-name: linear-gradient(to right, rgb(113 39 208), rgb(1 15 129));
+    --section-element: black;
+    --section-link: linear-gradient(to right, rgb(111, 0, 255), rgb(183, 0, 255));
 }
 .darkmode {
     --dark-light-button: white;
     --background-color: linear-gradient(135deg, #f0f0f0, #838383, #474646);
     --active-selected-button-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,9,121,1) 35%, rgba(0,212,255,1) 100%);
-    --logo-color : black;
-    --social-button-color: linear-gradient(90deg, rgb(99, 100, 100) 0%, rgb(180, 180, 180) 35%, rgb(255, 255, 255) 100%);
+    --social-button-color: linear-gradient(90deg, rgb(136, 136, 136) 0%, rgb(180, 180, 180) 35%, rgb(255, 255, 255) 100%);
+    --logo: rgb(46, 46, 46);
+    --logo-name: linear-gradient(to right, rgb(151, 151, 151), rgb(53, 53, 53));
+    --section-element: rgb(94, 94, 94);
+    --section-link: linear-gradient(to right, rgb(0, 0, 0), rgb(56, 55, 56));
 }
 img {
     width: 100%;
@@ -56,13 +62,13 @@ header {
 }
 .logo {
     font-size: 50px;
-    color: rgb(106, 4, 153)
+    color: var(--logo);
 }
 .brandName {
     text-decoration: none;
     font-family: "Poppins", sans-serif;
     font-size: 45px;
-    background-image: linear-gradient(to right, rgb(107, 7, 236), rgb(121, 74, 209));
+    background-image: var(--logo-name);
     -webkit-background-clip: text;
     color: transparent;  
     font-weight: 600;
@@ -78,7 +84,7 @@ header {
     gap: 20px;
 }
 .sectionElement {
-    background-color: black;
+    background-color: var(--section-element);
     border-radius: 8px;
     padding-left: 15px;
     padding-right: 15px;
@@ -93,7 +99,7 @@ header {
     text-decoration: none;
     font-size: 20px;
     font-family: "Poppins", sans-serif;
-    background-image: linear-gradient(to right, rgb(111, 0, 255), rgb(183, 0, 255));
+    background-image: var(--section-link);
     -webkit-background-clip: text;
     color: transparent; 
     font-weight: 600;
