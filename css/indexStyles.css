@@ -40,7 +40,7 @@
     align-items: center;
     border: none;
     position: fixed;
-    right: 50px;
+    right: 15px;
 }
 #theme-switch svg:last-child {
     display: none;

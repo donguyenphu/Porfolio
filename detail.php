@@ -56,7 +56,7 @@
                             </div>
                         </div>
                         <h1 class="introInfo">Hobbies :</h1>
-                        <h1 class="mainInfo">Programming, coding</h1>
+                        <h1 class="mainInfo">Programming, coding, football, piano</h1>
                     </div>
                     <div class="titleWrapper">
                         <div class="introWrapper">
@@ -70,14 +70,6 @@
                                 donguyenphu
                             </div>
                         </a>
-                    </div>
-                    <div class="quoteWrapper">
-                        <h1 class="quoteMainFirstHalf">
-                            Even after my dopamine depleted
-                        </h1>
-                        <h1 class="quoteMainSecondHalf">
-                            I can't stop doing <a href="https://en.wikipedia.org/wiki/Competitive_programming" id="cp">Competitive programming</a>
-                        </h1>
                     </div>
                 </div>
                 <div class="imageWrapper">

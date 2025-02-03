@@ -83,7 +83,7 @@
     font-size: 25px;
 }
 .activities {
-    color: rgb(207, 190, 190);
+    color: var(--activities);
     font-family: 'Poppins',sans-serif;
     font-weight: 400;
     font-size: 25px;

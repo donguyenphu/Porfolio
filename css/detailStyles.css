@@ -12,7 +12,7 @@
 .aboutMeTitleMain {
     font-size: 40px;
     font-family: "Roboto", sans-serif;
-    background-image: linear-gradient(to right, rgb(106, 9, 233), rgb(156, 140, 187));
+    background-image: var(--about-me-title-and-line);
     -webkit-background-clip: text;
     color: transparent; 
     transition: 0.4s all ease-in-out; 
@@ -32,7 +32,7 @@
     height: 4px;
     border-radius: 3px;
     flex: 2;
-    background: linear-gradient(45deg, rgb(177, 167, 197), rgb(101, 5, 228));
+    background: var(--about-me-title-and-line);
 }
 .imageWrapper {
     width: 40%;
@@ -57,7 +57,7 @@
 }
 .symbolWrapper {
     font-size: 40px;
-    background-image: linear-gradient(to right, rgb(160, 137, 204), rgb(99, 13, 211));
+    background-image: var(--symbol-wrapper);
     -webkit-background-clip: text;
     color: transparent;  
 }
@@ -67,10 +67,10 @@
 .introInfo {
     font-size: 25px;
     font-family: 'Roboto';
-    color: #44566c
+    color: var(--intro-info);
 }
 .mainInfo {
-    color: rgba(245, 245, 245, 0.781);
+    color: var(--activities);
     font-family: 'Poppins';
     font-weight: 300;
     font-size: 22px;
@@ -82,6 +82,7 @@
     color: transparent; 
     font-family: 'Poppins', sans-serif; 
     font-size: 22px;
+    font-weight: 600;
 }
 #heart {
     background-image: linear-gradient(to right, rgb(230, 137, 157), rgb(211, 13, 46));
@@ -116,6 +117,7 @@
 #githubLink {
     text-decoration: none;
     text-align: center;
+    transition: 2s all ease-in-out;
 }
 .myGithubProject {
     font-size: 22px;
@@ -124,6 +126,9 @@
     -webkit-background-clip: text;
     color: transparent;
     font-family: 'Poppins', sans-serif;
+}
+.myGithubProject:hover, #ctp:hover {
+    transform: scale(1.1);
 }
 .quoteWrapper {
     text-align: center;

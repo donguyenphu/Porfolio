@@ -11,21 +11,29 @@
     --dark-light-button: white;
     --background-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,9,121,1) 35%, rgba(0,212,255,1) 100%);
     --active-selected-button-color: whitesmoke;
-    --social-button-color: linear-gradient(to right, rgb(216, 216, 216),rgb(152, 150, 155));
+    --social-button-color: linear-gradient(to right, rgb(100, 98, 230),rgb(130, 220, 255));
     --logo: rgb(106, 4, 153);
     --logo-name: linear-gradient(to right, rgb(113 39 208), rgb(1 15 129));
     --section-element: black;
     --section-link: linear-gradient(to right, rgb(111, 0, 255), rgb(183, 0, 255));
+    --about-me-title-and-line: linear-gradient(45deg, rgb(177, 167, 197), rgb(101, 5, 228));
+    --intro-info: #6450ad;
+    --symbol-wrapper: linear-gradient(to right, rgb(160, 137, 204), rgb(99, 13, 211));
+    --activities: rgb(207, 190, 190);
 }
 .darkmode {
     --dark-light-button: white;
-    --background-color: linear-gradient(135deg, #f0f0f0, #838383, #474646);
+    --background-color: linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(185, 185, 185) 35%, rgb(54, 54, 54)  100%);
     --active-selected-button-color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(66,9,121,1) 35%, rgba(0,212,255,1) 100%);
-    --social-button-color: linear-gradient(90deg, rgb(136, 136, 136) 0%, rgb(180, 180, 180) 35%, rgb(255, 255, 255) 100%);
-    --logo: rgb(46, 46, 46);
-    --logo-name: linear-gradient(to right, rgb(151, 151, 151), rgb(53, 53, 53));
-    --section-element: rgb(94, 94, 94);
-    --section-link: linear-gradient(to right, rgb(0, 0, 0), rgb(56, 55, 56));
+    --social-button-color: linear-gradient(90deg, rgb(158, 153, 153) 0%, rgb(190, 190, 190) 35%, rgb(255, 255, 255) 100%);
+    --logo: rgb(31, 31, 31);
+    --logo-name: linear-gradient(to right, rgb(168, 168, 168), rgb(53, 53, 53));
+    --section-element: rgb(124, 124, 124);
+    --section-link: linear-gradient(to right, rgb(0, 0, 0),rgb(94, 83, 83));
+    --about-me-title-and-line: linear-gradient(45deg, rgb(255, 255, 255), rgb(39, 39, 39));
+    --intro-info: #b5bfcc;
+    --symbol-wrapper: linear-gradient(to right, rgb(222, 218, 230), rgb(46, 41, 41));
+    --activities: rgb(221, 221, 221);
 }
 img {
     width: 100%;
