@@ -35,8 +35,7 @@
     background: var(--about-me-title-and-line);
 }
 .imageWrapper {
-    aspect-ratio: 19/7;
-    width: 45%;
+    width: 40%;
     object-fit: cover;
     position: relative;
 }
@@ -45,10 +44,10 @@
     height: auto;
     object-fit: cover;
     border-radius: 15px;
+    aspect-ratio: 7 / 8;
 }
-#swipeRightWrapper {
+#swipeLeftWrapper, #swipeRightWrapper {
     position: absolute;
-    right: 5px;
     top: 50%;
     border-radius: 50%;
     display: flex;
@@ -56,7 +55,13 @@
     align-items: center;
     border: none;
 }
-#swipeRightMain {
+#swipeRightWrapper {
+    right: 5px;
+}
+#swipeLeftWrapper {
+    left: 5px;
+}
+#swipeRightMain, #swipeLeftMain {
     color: var(--about-me-title-and-line);
     transition: 2s all ease-in-out;
     background-color: white;
@@ -126,6 +131,20 @@
     -webkit-background-clip: text;
     color: transparent;
 }
+#class {
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(115, 174, 230), rgb(8, 41, 190));
+    -webkit-background-clip: text;
+}
+#classLink {
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(160, 148, 214), rgb(71, 9, 216));
+    -webkit-background-clip: text;
+    color: transparent; 
+    font-family: 'Poppins', sans-serif; 
+    font-size: 22px;
+    font-weight: 600;
+}
 .viewMoreWrapper {
     padding-bottom: 25px;
 }
@@ -149,7 +168,7 @@
     color: transparent;
     font-family: 'Poppins', sans-serif;
 }
-.myGithubProject:hover, #ctp:hover {
+.myGithubProject:hover, #ctp:hover, #classLink:hover {
     transform: scale(1.1);
 }
 .quoteWrapper {

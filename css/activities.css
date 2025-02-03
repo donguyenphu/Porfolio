@@ -125,7 +125,7 @@
     font-size: 25px;
     font-family: 'Noto Sans', sans-serif;
     font-weight: 600;
-    background-image: linear-gradient(to right, rgb(41, 225, 170), rgb(241, 48, 199));
+    background-image: var(--symbol-wrapper);
     -webkit-background-clip: text;
     color: transparent; 
 }
@@ -193,16 +193,17 @@
     display: flex;
     align-items: center;
     gap: 20px;
-    padding: 20px;
     align-items: stretch;
 }
 .imageOnlyWrapper {
     width: 50%;
     height: auto;
+    margin-bottom: 20px;
 }
 .imageOnlyMain {
     border-radius: 15px;
 }
+/* HHH see more */
 .center {
     text-align: center;
     justify-content: center;
@@ -211,9 +212,9 @@
 }
 .center:hover {
     transform: scale(1.05);
-    background-image: linear-gradient(to right, rgb(41, 225, 170), rgb(241, 48, 199));
+    background-image: var(--symbol-wrapper);
     -webkit-background-clip: text;
-    color: transparent; 
+    color: transparent;
 }
 .activitiesImageWrapper {
     margin: auto;

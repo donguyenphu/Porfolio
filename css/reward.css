@@ -38,7 +38,7 @@
     width: 50%;
     padding: 10px;
 }
-.IELTSintroductionMain, .CourseraIntroductionMain, .AMEBintroductionMain, .ZENDVNintroductionMain, .GPAintroductionMain,  .INTROARTintroductionMain, .IA2022introductionMain, .IA2023introductionMain, .CHEMISTRYintroductionMain, .ITintroductionMain, .ITintroduction2Main {
+.descriptionActivities {
     font-size: 28px;
     line-height: 1.5;
     font-family: 'Roboto', sans-serif;
@@ -167,7 +167,10 @@
     border-radius: 15px;
 }
 .IA2022rightWrapper, .IA2022leftWrapper {
-    flex:1 ;
+    flex: 1 ;
+}
+.AMEB {
+    width: 100%;
 }
 .IA2023leftMain ,.IA2023midMain, .IA2023rightMain {
     border-radius: 15px;
@@ -198,25 +201,29 @@
     width: 100%;
     border-radius: 15px;
 }
-#VNOI ,#CF1 ,#CF2 ,#LQDOJ ,#LEETCODE ,#CSES, #SPOJ, #AMSOI, #CSLOJ, #LIGHTOJ, #OJUZ {
+#codingPlatform {
     text-decoration: none;
-    font-size: 35px;
+    font-size: 30px;
     line-height: 1.5;
     font-family: 'Noto Sans', sans-serif;
     font-weight: 600;
-    /* background-image: linear-gradient(to right, rgb(73, 72, 74),rgb(25, 25, 25));
-    -webkit-background-clip: text;
-    color: transparent;  */
     color: black;
+}
+.codingPlatformWrapper {
+    transition: 0.36s all ease-in-out;
+}
+.codingPlatformWrapper:hover {
+    transform: translateY(-10px);
 }
 #SPOJ, #AMSOI, #CSLOJ, #LIGHTOJ, #OJUZ {
     line-height: 1.5;
 }
 .imageAndListWrapper {
     display: flex;
-    gap: 50px;
+    gap: 20px;
     align-items: center;
     margin-top: 30px;
+    justify-content: center;
 }
 .ITimageWrapper {
     width: 50%;

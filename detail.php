@@ -71,9 +71,21 @@
                             </div>
                         </a>
                     </div>
+                    <div class="titleWrapper">
+                        <div class="introWrapper">
+                            <div class="symbolWrapper">
+                                <i class="fa-solid fa-book" id = "class"></i>
+                            </div>
+                        </div>
+                        <h1 class="introInfo">Class :</h1>
+                        <a href="https://www.facebook.com/profile.php?id=100094544850084" id="classLink">Information Technology</a>
+                    </div>
                 </div>
                 <div class="imageWrapper">
                     <img src="./images/myImages0.jpg" class="imageMain" id = "imageMainForImages">
+                    <button id="swipeLeftWrapper">
+                        <i class="fa-solid fa-arrow-left" id = "swipeLeftMain"></i>
+                    </button>
                     <button id="swipeRightWrapper">
                         <i class="fa-solid fa-arrow-right" id = "swipeRightMain"></i>
                     </button>
