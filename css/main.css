@@ -47,9 +47,6 @@ a {
 .active {
     background-color: var(--active-selected-button-color);
 }
-img:hover {
-    transform: translateY(-10px);
-}
 .container {
     padding: 50px;
 }

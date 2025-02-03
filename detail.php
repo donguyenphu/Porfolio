@@ -73,7 +73,10 @@
                     </div>
                 </div>
                 <div class="imageWrapper">
-                    <img src="./images/371849340_1124344331921704_4474037471854140439_n.jpg" class="imageMain">
+                    <img src="./images/myImages0.jpg" class="imageMain" id = "imageMainForImages">
+                    <button id="swipeRightWrapper">
+                        <i class="fa-solid fa-arrow-right" id = "swipeRightMain"></i>
+                    </button>
                 </div>
             </div>
         </div>
