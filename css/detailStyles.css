@@ -70,6 +70,9 @@
     font-size: 26px;
     padding: 10px;
 }
+#imageMainForImages {
+    transition: left 1s all ease-in-out;
+}
 .informationWrapper {
     justify-content: space-between;
     align-items: center;
