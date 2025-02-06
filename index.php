@@ -31,5 +31,8 @@
         </div>
     </div>
     <script src = "./loader/loader.js"></script>
+    <script src = "./loader/darkmode.js"></script>
+    <script src = "./loader/hideShow.js"></script>
+    <script src = "./loader/imgSlide.js"></script>
 </body>
 </html>
