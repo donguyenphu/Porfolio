@@ -23,29 +23,48 @@
                 </div>
             </div>
             <!-- 18 images -> 3 images each line -->
-            <div>
-                <div class="imageStorageWrapper">
-                    <div class="imageOnlyWrapper">
-                        <img src="../images/AMEB4.JPG" class="imageOnlyMain">
-                    </div>
-                    <div class="imageOnlyWrapper">
-                        <img src="../images/AMEB4.JPG" class="imageOnlyMain">
-                    </div>
-                    <div class="imageOnlyWrapper">
-                        <img src="../images/AMEB4.JPG" class="imageOnlyMain">
-                    </div>
-                    <div class="imageOnlyWrapper">
-                        <img src="../images/AMEB4.JPG" class="imageOnlyMain">
-                    </div>
+            <div class="HHHstoragedescription">
+                <p class="detailMain">That was such a memorable trip, we first asked the manager of the hospital to allow us to visit patients, we explained clearly our purpose. We met people with different ages and circumstances there.We learned how to take care of other people and also empathised people with difficult background.</p>
+            </div>
+            <div class="imageStorageNoJSWrapper">
+                <div class="imageOnlyNoJSWrapper">
+                    <img src="../images/HHHtrip0.jpg" class="imageOnlyNoJSMain">
                 </div>
-                <div class="lineImageStorage"></div>
-                <div class="lineImageStorage"></div>
-                <div class="lineImageStorage"></div>
-                <div class="lineImageStorage"></div>
-                <div class="lineImageStorage"></div>
+                <div class="imageOnlyNoJSWrapper">
+                    <img src="../images/HHHtrip1.jpg" class="imageOnlyNoJSMain">
+                </div>
+                <div class="imageOnlyNoJSWrapper">
+                    <img src="../images/HHHtrip2.jpg" class="imageOnlyNoJSMain">
+                </div>
+                <div class="imageOnlyNoJSWrapper">
+                    <img src="../images/HHHtrip3.jpg" class="imageOnlyNoJSMain">
+                </div>
+                <div class="imageOnlyNoJSWrapper">
+                    <img src="../images/HHHtrip5.jpg" class="imageOnlyNoJSMain">
+                </div>
+            </div>
+            <div class="imageStorageNoJSWrapper">
+                <div class="imageOnlyNoJSWrapper">
+                    <img src="../images/HHHtrip6.jpg" class="imageOnlyNoJSMain">
+                </div>
+                <div class="imageOnlyNoJSWrapper">
+                    <img src="../images/HHHtrip7.jpg" class="imageOnlyNoJSMain">
+                </div>
+                <div class="imageOnlyNoJSWrapper">
+                    <img src="../images/HHHtrip8.jpg" class="imageOnlyNoJSMain">
+                </div>
+                <div class="imageOnlyNoJSWrapper">
+                    <img src="../images/HHHtrip9.jpg" class="imageOnlyNoJSMain">
+                </div>
+                <div class="imageOnlyNoJSWrapper">
+                    <img src="../images/HHHtrip10.jpg" class="imageOnlyNoJSMain">
+                </div>
             </div>
         </div>
     </div>
     <script src = "../loader/loader.js"></script>
+    <script src = "../loader/darkmode.js"></script>
+    <script src = "../loader/hideShow.js"></script>
+    <script src = "../loader/imgSlide.js"></script>
 </body>
 </html>
