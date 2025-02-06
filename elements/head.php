@@ -16,4 +16,5 @@
 <link rel="stylesheet" href="<?php echo $level ;?>css/indexStyles.css">
 <link rel="stylesheet" href="<?php echo $level ;?>css/reward.css">
 <link rel="stylesheet" href="<?php echo $level ;?>css/contact.css">
+<link rel="stylesheet" href="<?php echo $level ;?>css/hobby.css">
 <!-- CSS END -->
