@@ -32,7 +32,7 @@
     --section-link: linear-gradient(to right, rgb(0, 0, 0),rgb(88, 81, 81));
     --about-me-title-and-line: linear-gradient(45deg, rgb(255, 255, 255), rgb(39, 39, 39));
     --intro-info: #b5bfcc;
-    --symbol-wrapper: linear-gradient(to right, rgb(222, 218, 230), rgb(46, 41, 41));
+    --symbol-wrapper: linear-gradient(to right, rgb(255, 255, 255), rgb(56, 55, 55));
     --activities: rgb(221, 221, 221);
 }
 img {

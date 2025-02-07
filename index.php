@@ -13,7 +13,7 @@
         <?php require_once './elements/header.php'; ?>
         <div class="seperate"></div>
         <div class="imageWrapperIndex">
-            <img src="./images/371849340_1124344331921704_4474037471854140439_n.jpg" alt="avatar" class="image">
+            <img src="./images/myImages0.jpg" alt="avatar" class="image">
         </div>
         <div class="socialWrapper">
             <div class="socialElementWrapper">

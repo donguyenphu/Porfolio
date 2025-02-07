@@ -42,7 +42,9 @@
 <header>
     <div class="headerWrapper">
         <div class="fullBrand">
-            <div class="logo"><i class="fa-solid fa-laptop"></i></div>
+            <a href="index.php">
+                <div class="logo"><i class="fa-solid fa-laptop"></i></div>
+            </a>
             <a href="index.php" class="brandName">Porfolio</a>
         </div>  
         <div class="smallSectionsWrapper">

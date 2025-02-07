@@ -41,6 +41,7 @@
     border: none;
     position: fixed;
     right: 15px;
+    cursor: pointer;
 }
 #theme-switch svg:last-child {
     display: none;
