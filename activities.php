@@ -134,9 +134,6 @@
             </div>
         </div>
     </div>
-    <script src = "./loader/loader.js"></script>
-    <script src = "./loader/darkmode.js"></script>
-    <script src = "./loader/hideShow.js"></script>
-    <script src = "./loader/imgSlide.js"></script>
+    <?php require_once './elements/script.php';?>
 </body>
 </html>

@@ -7,8 +7,8 @@
     <?php require_once './elements/head.php'; ?>
     <title>PORFOLIO-MAIN PAGE</title>
 </head>
-<body class = "darkmode">
-    <!-- <div id="preloader"></div> -->
+<body>
+    <div id="preloader"></div>
     <div class="container">
         <?php require_once './elements/header.php'; ?>
         <div class="seperate"></div>
@@ -30,9 +30,6 @@
             </div>
         </div>
     </div>
-    <script src = "./loader/loader.js"></script>
-    <script src = "./loader/darkmode.js"></script>
-    <script src = "./loader/hideShow.js"></script>
-    <script src = "./loader/imgSlide.js"></script>
+    <?php require_once './elements/script.php';?>
 </body>
 </html>
