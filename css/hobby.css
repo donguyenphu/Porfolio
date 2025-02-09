@@ -16,3 +16,19 @@
     border-radius: 15px;
     margin-bottom: 20px;
 }
+.videosWrapper {
+    gap: 15px;
+    display: flex;
+    align-items: stretch;
+}
+.onlyVideoWrapper {
+    flex: 1;
+    object-fit: cover;
+}
+.onlyVideoMain {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    aspect-ratio: 6 / 5;
+    background-color: black;
+}

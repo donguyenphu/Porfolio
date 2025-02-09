@@ -38,9 +38,45 @@
                     After a period of 3 months, I started learning Competitive Programming, as know as CP, for having knowledge of basic and enhanced algorithms. I joined a CP class, hosted by Mr Hung for my class, and learned programming language C++;
                 </p>
                 <!-- Images of studying in CP class (first time in IT room) -->
+                <div class="imageStorageWrapper">
+                    <div class="imageOnlyWrapper">
+                        <img src="./images/ITroom.jpg" class="imageOnlyMain">
+                    </div>
+                    <div class="imageOnlyWrapper">
+                        <img src="./images/ITroom2.jpg" class="imageOnlyMain">
+                    </div>
+                </div>
                 <p class="descriptionActivities">
-                    
+                    To be honest, that months were also a memorable time for me: Trying to learn as much as possible to get IT prizes as high as possible, Being passionate to this subject, buying keyboard as a motivation and better learning,sticking to my laptop and the IT room...
                 </p>
+                <div class="imageStorageNoJSWrapper">
+                    <div class="imageOnlyNoJSWrapper">
+                        <img src="./images/ITroom3.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper">
+                        <img src="./images/ITroom4.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper">
+                        <img src="./images/ITroom5.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper">
+                        <img src="./images/ITroom6.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper">
+                        <img src="./images/ITroom9.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                </div>
+                <div class="videosWrapper">
+                    <div class="onlyVideoWrapper">
+                        <video src="./images/ITroom7.mp4" class="onlyVideoMain" controls = "" type="video/mp4"></video>
+                    </div>
+                    <div class="onlyVideoWrapper">
+                        <video src="./images/ITroom8.mp4" class="onlyVideoMain" controls = "" type="video/mp4"></video>
+                    </div>
+                    <!-- <div class="onlyVideoWrapper">
+                        <video src="./images/ITroom8.mp4" class="onlyVideoMain" type="video/mp4" controls = ""></video>
+                    </div> -->
+                </div>
             </div>
             <button id = "hobbyTwo" class = "buttonHobbies"><i class="fa-solid fa-chevron-down"></i></button>
             <div class="CertificateNumberWrapper">
