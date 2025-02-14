@@ -4,7 +4,7 @@ let swipeLeftWrapper = document.getElementById("swipeLeftWrapper");
 let imageMainForImages = document.getElementById("imageMainForImages");
 let tmp = 0;
 
-let arrImgLink = ['./images/myImages0.jpg', './images/myImages1.jpg', './images/myImages2.jpg'];
+let arrImgLink = ['./images/myImages0.jpg', './images/myImages1.jpg', './images/myImages2.jpg','./images/myImages3.jpg','./images/myImages4.jpg'];
 
 let length = arrImgLink.length;
 swipeRightWrapper.addEventListener("click", function () {

@@ -30,38 +30,61 @@
             <!--  -->
             <div class="outlineActivitiesWrapper">
                 <div class="introductionWrapper">
-                    <div class="introduce1wrapper">
-                        <a class="introduce1main" href= "./ECs/HHH.php">1. Hanoi Helping Hand - VIEW MORE</a>
+                    <div class="introduceTitlewrapper">
+                        <a class="introduce1main" href= "./ECs/HHH.php">1. Hanoi Helping Hand - View more</a>
                     </div>
                     <div class="text1wrapper">
-                        <p class="activities">
+                        <p class="mainInfo">
                             A student - run voluntary project which aims to assist the underprivileged people in Hanoi city and other cities nearby.
                         </p>
                     </div>
                 </div>
                 <div class="introductionWrapper">
-                    <div class="introduce2wrapper">
-                        <a class="introduce2main" href="./ECs/ICM.php">2. Informatics club TPC - VIEW MORE</a>
+                    <div class="introduceTitlewrapper">
+                        <a class="introduce2main" href="./ECs/ICM.php">2. Informatics club TPC - View more</a>
                     </div>
                     <div class="text1wrapper">
-                        <p class="activities">
+                        <p class="mainInfo">
                             The club will mainly post topics about games, such as: Common games,team games, individual games,... And we also celebrate important events, such as: Tet, Women's day, Christmast and so on.
                         </p>
                     </div>
                 </div>
                 <div class="introductionWrapper">
                     <!-- yellow -->
-                    <div class="introduce3wrapper">
-                        <a class="introduce3main" href="./ECs/HPO.php">3. Hoa Phuong Orphanage - VIEW MORE</a>
+                    <div class="introduceTitlewrapper">
+                        <a class="introduce3main" href="./ECs/HPO.php">3. Hoa Phuong Orphanage - View more</a>
                     </div>
                     <div class="text1wrapper">
-                        <p class="activities">
+                        <p class="mainInfo">
                             I also taught children in Hoa Phuong Orphanage drawing with my drawing teacher, Mr Huy 
+                        </p>
+                    </div>
+                </div>
+                <div class="introductionWrapper">
+                    <!-- yellow -->
+                    <div class="introduceTitlewrapper">
+                        <a class="introduce4main" href="./ECs/HPO.php">4. TPCircle Robotics Team - View more</a>
+                    </div>
+                    <div class="text1wrapper">
+                        <p class="mainInfo">
+                            This is a robotic club, the members will take part in different robotic competition from many places, such as: FTC (First Tech Challenge), VORC (Vietnam Open Robotics Challenge) 
+                        </p>
+                    </div>
+                </div>
+                <div class="introductionWrapper">
+                    <!-- yellow -->
+                    <div class="introduceTitlewrapper">
+                        <a class="introduce5main" href="./ECs/HPO.php">5. TECHGEN - Ignite Your Innovation - View more</a>
+                    </div>
+                    <div class="text1wrapper">
+                        <p class="mainInfo">
+                            TECH stands for TECHNOLOGY, GEN stands for GENERATION.The main aim of the club is spreading and inspiring Technology through different generations.
                         </p>
                     </div>
                 </div>
             </div>
             <!--  -->
+            <h2 class = "TimelineMain"><i>Timeline</i></h2>
             <div class="titleWrapper">
                 <div class="introWrapper">
                     <div class="symbolWrapper">
@@ -130,6 +153,34 @@
             <div id="HPObeginWrapper">
                 <div class="activitiesImageWrapper">
                     <img src="./images/HoaPhuongOrphanage.jfif" class="activitiesImageMain">
+                </div>
+            </div>
+            <div class="titleWrapper">
+                <div class="introWrapper">
+                    <div class="symbolWrapper">
+                        <i class="fa-solid fa-clock"></i>
+                    </div>
+                </div>  
+                <h1 class="introInfo">12 / 2024: </h1>
+                <h1 class="mainInfo">Working as a member of Programming <a href="https://www.facebook.com/tpcirclehp" id="HPO">TPCircle Robotics club</a> </h1>
+            </div>
+            <div id="HPObeginWrapper">
+                <div class="activitiesImageWrapper">
+                    <img src="./images/donChapNhanTPCIRCLE.png" class="activitiesImageMain">
+                </div>
+            </div>
+            <div class="titleWrapper">
+                <div class="introWrapper">
+                    <div class="symbolWrapper">
+                        <i class="fa-solid fa-clock"></i>
+                    </div>
+                </div>  
+                <h1 class="introInfo">2 / 2025: </h1>
+                <h1 class="mainInfo">Working as a co-founder in <a href="https://www.facebook.com/profile.php?id=61572083256650" id="HPO">TECHGEN - Ignite Your Innovation</a> </h1>
+            </div>
+            <div id="HPObeginWrapper">
+                <div class="activitiesImageWrapper">
+                    <img src="./images/donChapNhanTECHGEN.png" class="activitiesImageMain">
                 </div>
             </div>
         </div>

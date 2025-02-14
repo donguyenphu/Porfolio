@@ -73,9 +73,29 @@
                     <div class="onlyVideoWrapper">
                         <video src="./images/ITroom8.mp4" class="onlyVideoMain" controls = "" type="video/mp4"></video>
                     </div>
-                    <!-- <div class="onlyVideoWrapper">
-                        <video src="./images/ITroom8.mp4" class="onlyVideoMain" type="video/mp4" controls = ""></video>
-                    </div> -->
+                </div>
+                <p class="descriptionActivities">
+                    I still remembered that I successfully proposed my mother to participate in a coding competition in Hanoi. In there, I met a lot of people, experienced a bunch of new feelings. Although the result I received was not my expectation, at least I connected to a lot of people and had more experience.
+                </p>
+                <p class="descriptionActivities">
+                    The competition was held by VNU - UET national university, about 2000 IT students took part in the competition.
+                </p>
+                <div class="imageStorageNoJSWrapper">
+                    <div class="imageOnlyNoJSWrapper">
+                        <img src="./images/ITroom10.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper">
+                        <img src="./images/ITroom11.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper">
+                        <img src="./images/ITroom12.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper">
+                        <img src="./images/ITroom13.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper">
+                        <img src="./images/ITroom14.jpg" class="imageOnlyNoJSMain">
+                    </div>
                 </div>
             </div>
             <button id = "hobbyTwo" class = "buttonHobbies"><i class="fa-solid fa-chevron-down"></i></button>

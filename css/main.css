@@ -118,7 +118,7 @@ header {
 }
 #preloader {
     background: black url('../images/299.gif') no-repeat center center;
-    background-size: 15% auto;
+    background-size: 10% auto;
     height: 100vh;
     width: 100%;
     position: fixed;

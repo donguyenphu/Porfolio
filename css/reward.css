@@ -45,6 +45,7 @@
     font-weight: 500;
     text-indent: 15px;
     margin-bottom: 15px;
+    margin-top: 15px;
 }
 .AMEBintroductionMain {
     color: #1b232b;
@@ -122,15 +123,10 @@
 }
 .imageGPAwrapper {
     width: 100%;
-    /* overflow: hidden; */
-    
-
 }
 .imageGPAmain {
     width: 100%;
     border-radius: 15px;
-    /* clip-path: inset(22% 0 8% 0); */
-    /* object-fit: cover; */
 }
 /* CERTIFICATE END */
 /* PRIZE START */
