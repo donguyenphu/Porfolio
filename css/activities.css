@@ -262,7 +262,7 @@
 }
 .imageOnlyNoJSWrapper:hover {
     width: 45%;
-    transform: scale(1.05);
+    transform: scale(1.1);
 }
 .TimelineMain {
     background-image: var(--symbol-wrapper);

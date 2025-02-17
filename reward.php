@@ -44,24 +44,44 @@
                             </p>
                         </div>
                         <div class="allCourseraImageWrapper">
-                            <div class="imageStorageWrapper">
-                                <div class="imageOnlyWrapper">
-                                    <img src="./images/Coursera 5TT45KNXYJMG-1.png" class="imageOnlyMain">
+                            <div class="imageStorageNoJSWrapper">
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/Coursera 5TT45KNXYJMG-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                 </div>
-                                <div class="imageOnlyWrapper">
-                                    <img src="./images/Coursera 6P5LDX2HTE5X-1.png" class="imageOnlyMain">
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/Coursera 6P5LDX2HTE5X-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                 </div>
-                                <div class="imageOnlyWrapper">
-                                    <img src="./images/Coursera H5Z3KX5UDHN8-1.png" class="imageOnlyMain">
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/Coursera H5Z3KX5UDHN8-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/Coursera U9LWRBHMXPKR-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/Coursera WJ6RJ3EDZVX5-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                 </div>
                             </div>
-                            <div class="imageStorageWrapper">
-                                <div class="imageOnlyWrapper">
-                                    <img src="./images/Coursera U9LWRBHMXPKR-1.png" class="imageOnlyMain">
-                                </div>
-                                <div class="imageOnlyWrapper">
-                                    <img src="./images/Coursera WJ6RJ3EDZVX5-1.png" class="imageOnlyMain">
-                                </div>
+                        </div>
+                        <div class="popUp">
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/Coursera 5TT45KNXYJMG-1.png" class="popUpImage">
+                            </div>
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/Coursera 6P5LDX2HTE5X-1.png" class="popUpImage">
+                            </div>
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/Coursera H5Z3KX5UDHN8-1.png" class="popUpImage">
+                            </div>
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/Coursera U9LWRBHMXPKR-1.png" class="popUpImage">
+                            </div>
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/Coursera WJ6RJ3EDZVX5-1.png" class="popUpImage">
                             </div>
                         </div>
                     </div>

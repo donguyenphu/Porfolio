@@ -225,4 +225,38 @@
 .ITimageWrapper {
     width: 50%;
 }
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    justify-content: center;
+    align-items: center;
+}
+.popUpImage {
+    position: absolute;
+    height: 90vh;
+    width: auto;
+    border-radius: 10px;
+    cursor: pointer;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+}
+.popUpImage:hover {
+    transform: translateY(0px);
+}
+.close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    z-index: 999;
+}
 /* PRIZE END */
