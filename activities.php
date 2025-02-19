@@ -162,7 +162,7 @@
                     </div>
                 </div>  
                 <h1 class="introInfo">12 / 2024: </h1>
-                <h1 class="mainInfo">Working as a member of Programming <a href="https://www.facebook.com/tpcirclehp" id="HPO">TPCircle Robotics club</a> </h1>
+                <h1 class="mainInfo">Working as a member of Programming <a href="https://www.facebook.com/tpcirclehp" id="TPCIRCLE">TPCircle Robotics club</a> </h1>
             </div>
             <div id="HPObeginWrapper">
                 <div class="activitiesImageWrapper">
@@ -176,7 +176,7 @@
                     </div>
                 </div>  
                 <h1 class="introInfo">2 / 2025: </h1>
-                <h1 class="mainInfo">Working as a co-founder in <a href="https://www.facebook.com/profile.php?id=61572083256650" id="HPO">TECHGEN - Ignite Your Innovation</a> </h1>
+                <h1 class="mainInfo">Working as a co-founder in <a href="https://www.facebook.com/profile.php?id=61572083256650" id="TECHGEN">TECHGEN - Ignite Your Innovation</a> </h1>
             </div>
             <div id="HPObeginWrapper">
                 <div class="activitiesImageWrapper">

@@ -10,7 +10,7 @@
     -webkit-background-clip: text;
     color: transparent; 
 }
-#HHH, #ICM, #HPO {
+#HHH, #ICM, #HPO, #TECHGEN, #TPCIRCLE {
     font-weight: 600;
     font-size: 25px;
     transition: 0.4s;
@@ -24,6 +24,12 @@
     transform: rotate(-5deg);
 }
 #HPO:hover {
+    transform: rotate(-5deg);
+}
+#TPCIRCLE:hover {
+    transform: rotate(-5deg);
+}
+#TECHGEN:hover {
     transform: rotate(-5deg);
 }
 #HHHbeginWrapper {
@@ -96,27 +102,27 @@
     font-size: 30px;
     font-weight: 600;
 }
-.introduce1main {
+.introduce1main, #HHH {
     background-image: linear-gradient(to right, rgb(222, 58, 195), rgb(235, 4, 173));
     -webkit-background-clip: text;
     color: transparent;
 }
-.introduce2main {
+.introduce2main, #ICM {
     background-image: linear-gradient(to right, rgb(85, 125, 225), rgb(8, 53, 151));
     -webkit-background-clip: text;
     color: transparent;
 }
-.introduce3main {
+.introduce3main, #HPO {
     background-image: linear-gradient(to right, rgb(209, 91, 91), rgb(235, 4, 4));
     -webkit-background-clip: text;
     color: transparent; 
 }
-.introduce4main {
+.introduce4main, #TPCIRCLE {
     background-image: linear-gradient(315deg, rgba(38,97,178,1) 0%, rgba(0,255,214,1) 100%);
     -webkit-background-clip: text;
     color: transparent; 
 }
-.introduce5main {
+.introduce5main, #TECHGEN{
     background-image: linear-gradient(315deg, rgba(87,59,92,1) 0%, rgba(137,0,255,1) 100%);
     -webkit-background-clip: text;
     color: transparent; 

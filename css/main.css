@@ -40,9 +40,6 @@ img {
     height: 100%;
     object-fit: cover;
 }
-img:hover {
-    transform: translateY(-10px);
-}
 a {
     text-decoration: none;
     transition: 0.4s all ease-in-out;
