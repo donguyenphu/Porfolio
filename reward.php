@@ -43,23 +43,21 @@
                                 I started learning Coursera last year, after a chain of 10th grade entrance exam, knowing that I have a big interest in coding, my mother registered a course of mathematical thinking in Coursera in purpose of building basis algorithmic thinking.After getting the first certificate, I turned to another coding language in Coursera: Python and C++, and I also have basic skills of building a website by only HTML,CSS and also basic functions of Mycrosoft Excel.
                             </p>
                         </div>
-                        <div class="allCourseraImageWrapper">
-                            <div class="imageStorageNoJSWrapper">
-                                <div class="imageOnlyNoJSWrapper">
-                                    <img src="./images/Coursera 5TT45KNXYJMG-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                                </div>
-                                <div class="imageOnlyNoJSWrapper">
-                                    <img src="./images/Coursera 6P5LDX2HTE5X-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                                </div>
-                                <div class="imageOnlyNoJSWrapper">
-                                    <img src="./images/Coursera H5Z3KX5UDHN8-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                                </div>
-                                <div class="imageOnlyNoJSWrapper">
-                                    <img src="./images/Coursera U9LWRBHMXPKR-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                                </div>
-                                <div class="imageOnlyNoJSWrapper">
-                                    <img src="./images/Coursera WJ6RJ3EDZVX5-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                                </div>
+                        <div class="imageStorageNoJSWrapper">
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/Coursera 5TT45KNXYJMG-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            </div>
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/Coursera 6P5LDX2HTE5X-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            </div>
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/Coursera H5Z3KX5UDHN8-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            </div>
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/Coursera U9LWRBHMXPKR-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            </div>
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/Coursera WJ6RJ3EDZVX5-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
                             </div>
                         </div>
                         <div class="popUp">
@@ -91,15 +89,29 @@
                                 AMEB , which stands for Australian Music Examination Board, is a prestigious center for learning Art and Music, such as: Guitar, dancing, drawing, piano, drum and so on. I started learning AMEB when I was in grade 8 in purpose of relaxation and also find a side hustle for myself. After a period of 4 years learning my teacher, mr Son, I successfully passed 3 grades in AMEB: Grade 4, Grade 5 and Grade 6.
                             </p>
                         </div>
-                        <div class="imageStorageWrapper">
-                            <div class="imageOnlyWrapper">
-                                <img src="./images/AMEB4.JPG" class="imageOnlyMain">
+                        <div class="imageStorageNoJSWrapper">
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/AMEB4.JPG" class="imageOnlyNoJSMain" style="cursor: pointer;">
                             </div>
-                            <div class="imageOnlyWrapper">
-                                <img src="./images/AMEB5.PNG" class="imageOnlyMain">
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/AMEB5.PNG" class="imageOnlyNoJSMain" style="cursor: pointer;">
                             </div>
-                            <div class="imageOnlyWrapper">
-                                <img src="./images/AMEB6.jpg" class="imageOnlyMain">
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/AMEB6.JPG" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            </div>
+                        </div>
+                        <div class="popUp">
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/AMEB4.JPG" class="popUpImage">
+                            </div>
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/AMEB5.PNG" class="popUpImage">
+                            </div>
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/AMEB6.JPG" class="popUpImage">
                             </div>
                         </div>
                     </div>
@@ -109,15 +121,29 @@
                                 To be honest, this is where my main interest comes and grows.I started learning ZENDVN in 2023.When I want to have basic knowledge in the workplace in the future, I was taught a host of language, coming form basic algorithmic thinking and solving.
                             </p>
                         </div>
-                        <div class="imageStorageWrapper">
-                            <div class="imageOnlyWrapper">
-                                <img src="./images/ZendVN1.jfif" class="imageOnlyMain">
+                        <div class="imageStorageNoJSWrapper">
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/ZENDVN1.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
                             </div>
-                            <div class="imageOnlyWrapper">
-                                <img src="./images/ZendVN2.jfif" class="imageOnlyMain">
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/ZENDVN2.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
                             </div>
-                            <div class="imageOnlyWrapper">
-                                <img src="./images/ZendVN2.jfif" class="imageOnlyMain">
+                            <div class="imageOnlyNoJSWrapper">
+                                <img src="./images/ZENDVN3.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            </div>
+                        </div>
+                        <div class="popUp">
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/ZENDVN1.jfif" class="popUpImage">
+                            </div>
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/ZENDVN2.jfif" class="popUpImage">
+                            </div>
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/ZENDVN3.jpg" class="popUpImage">
                             </div>
                         </div>
                     </div>
@@ -204,7 +230,7 @@
                             <div class="imageAndListWrapper">
                                 <div class="ITimageWrapper">
                                     <!-- temporary -->
-                                    <img src="./images/2ndCHEMISTRY.jfif" class="ITimageMain">
+                                    <img src="./images/thirdPrizeIT.jpg" class="ITimageMain">
                                 </div>
                                 <div class="ITlistWrapper">
                                     <div class="codingPlatformWrapper">

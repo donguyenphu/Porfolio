@@ -83,11 +83,6 @@
     object-fit: cover;
     transform: rotate(180deg);
 }
-.allCourseraImageWrapper {
-    gap: 15px;
-    margin-top: 20px;
-    line-height: 1.5;
-}
 .Coursera1Main, .Coursera2Main, .Coursera3Main, .Coursera4Main, .Coursera5Main {
     width: 100%;
     border-radius: 15px;
