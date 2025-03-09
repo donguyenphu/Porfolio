@@ -29,7 +29,7 @@
             </div>
             <!--  -->
             <div class="outlineActivitiesWrapper">
-                <div class="introductionWrapper">
+                <div class="introductionWrapper" style="margin-bottom: 20px;">
                     <div class="introduceTitlewrapper">
                         <a class="introduce1main" href= "./ECs/HHH.php">1. Hanoi Helping Hand - View more</a>
                     </div>
@@ -39,7 +39,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="introductionWrapper">
+                <div class="introductionWrapper" style="margin-bottom: 20px;">
                     <div class="introduceTitlewrapper">
                         <a class="introduce2main" href="./ECs/ICM.php">2. Informatics club TPC - View more</a>
                     </div>
@@ -49,7 +49,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="introductionWrapper">
+                <div class="introductionWrapper" style="margin-bottom: 20px;">
                     <!-- yellow -->
                     <div class="introduceTitlewrapper">
                         <a class="introduce3main" href="./ECs/HPO.php">3. Hoa Phuong Orphanage - View more</a>
@@ -60,7 +60,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="introductionWrapper">
+                <div class="introductionWrapper" style="margin-bottom: 20px;">
                     <!-- yellow -->
                     <div class="introduceTitlewrapper">
                         <a class="introduce4main" href="./ECs/HPO.php">4. TPCircle Robotics Team - View more</a>
@@ -71,7 +71,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="introductionWrapper">
+                <div class="introductionWrapper" style="margin-bottom: 20px;">
                     <!-- yellow -->
                     <div class="introduceTitlewrapper">
                         <a class="introduce5main" href="./ECs/HPO.php">5. TECHGEN - Ignite Your Innovation - View more</a>

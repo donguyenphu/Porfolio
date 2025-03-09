@@ -47,24 +47,8 @@
     margin-bottom: 15px;
     margin-top: 15px;
 }
-.AMEBintroductionMain {
+.AMEBintroductionMain, .CourseraIntroductionMain, .IELTSintroductionMain, .ZENDVNintroductionMain {
     color: #1b232b;
-}
-.CourseraIntroductionMain {
-    color: #1b232b;
-}
-.IELTSintroductionMain {
-    color: #1b232b;
-}
-.ZENDVNintroductionMain {
-    color: #1b232b;
-}
-.IELTSimageWrapper {
-    width: 50%;
-}
-.IELTSimageMain {
-    width: 100%;
-    border-radius: 15px;
 }
 .AMEBintroductionWrapper {
     padding: 15px;
@@ -83,10 +67,6 @@
     object-fit: cover;
     transform: rotate(180deg);
 }
-.Coursera1Main, .Coursera2Main, .Coursera3Main, .Coursera4Main, .Coursera5Main {
-    width: 100%;
-    border-radius: 15px;
-}
 .firstCourseraWrapper {
     display: flex;
     gap: 20px;
@@ -100,28 +80,10 @@
     gap: 20px;
     align-items: center;
     margin-top: 20px;
-
-}
-.ZENDVNleftMain, .ZENDVNmidMain, .ZENDVNrightMain {
-    width: 100%;
-    border-radius: 15px;
-}
-.ZENDVNleftWrapper {
-    width: 32%;
-}
-.ZENDVNmidWrapper, .ZENDVNrightWrapper {
-    width: 34%;
 }
 .allGPAwrapper {
     display: flex;
     gap: 15px;
-}
-.imageGPAwrapper {
-    width: 100%;
-}
-.imageGPAmain {
-    width: 100%;
-    border-radius: 15px;
 }
 /* CERTIFICATE END */
 /* PRIZE START */
@@ -164,33 +126,12 @@
 .AMEB {
     width: 100%;
 }
-.IA2023leftMain ,.IA2023midMain, .IA2023rightMain {
-    border-radius: 15px;
-    width: 100%;
-}
-.IA2023leftWrapper, .IA2023midWrapper {
-    width: 35%;
-}
-.IA2023rightWrapper {
-    width: 30%;
-}
-.CHEMISTRYintroductionWrapper {
-    margin-bottom: 30px;
-}
 .CHEMISTRYallWrapper, .ITallWrapper {
     gap: 30px;
     margin-top: 30px;
     padding: 30px;
     background-color: #fff;
     background-color:#7b7878;
-    border-radius: 15px;
-}
-.allCHEMISTRYimageWrapper {
-    gap: 30px;
-    display: flex;
-}
-.ITimageMain {
-    width: 100%;
     border-radius: 15px;
 }
 #codingPlatform {
@@ -201,14 +142,8 @@
     font-weight: 600;
     color: black;
 }
-.codingPlatformWrapper {
-    transition: 0.36s all ease-in-out;
-}
 .codingPlatformWrapper:hover {
     transform: translateY(-10px);
-}
-#SPOJ, #AMSOI, #CSLOJ, #LIGHTOJ, #OJUZ {
-    line-height: 1.5;
 }
 .imageAndListWrapper {
     display: flex;
@@ -216,9 +151,6 @@
     align-items: center;
     margin-top: 30px;
     justify-content: center;
-}
-.ITimageWrapper {
-    width: 50%;
 }
 .popup {
     display: none;
@@ -242,9 +174,6 @@
     transform: translate(-50%, -50%);
     z-index: 999;
     transition: 31556952000s all ease-in-out;
-}
-.popUpImage:hover {
-    transform: translateY(0px);
 }
 .close {
     position: absolute;

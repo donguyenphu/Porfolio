@@ -1,20 +1,20 @@
 <?php
-    $level = './';
+$level = './';
 ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <?php require_once './elements/head.php'; ?>
     <title>My reward</title>
 </head>
+
 <body>
     <div id="preloader"></div>
     <div class="container">
         <?php require_once './elements/header.php'; ?>
         <div class="seperate"></div>
         <div class="allWrapperDetails">
-            <!--1.certificate: ielts, coursera, ameb,  -->
-            <!-- 2.prizes: 2piano, 2chemistry , 1it-->
             <div class="lineAndTitleWrapper">
                 <div class="lineNoTitle"></div>
                 <div class="aboutMeTitleWrapper">
@@ -33,8 +33,8 @@
                                 I started learning IELTS in the last June, hundreds of listening audio, before taking the real IELTS exam in the 2nd November this year, I finished practising IELTS in Cambridge 19. Many evenings I have to come back home at 10 PM. After thoroughly preparing for the test, I managed to get my expected overall score.
                             </p>
                         </div>
-                        <div class="IELTSimageWrapper">
-                            <img src="./images/IELTSonline.png" class="IELTSimageMain">
+                        <div class="IELTSimageWrapper" style="width: 50%;">
+                            <img src="./images/IELTSonline.png" style="width: 100%; border-radius: 15px; border: 2px solid black;">
                         </div>
                     </div>
                     <div class="allCourseraWrapper">
@@ -147,14 +147,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="allGPAwrapper">
-                        <div class="GPAintroductionWrapper">
-                            <p class="descriptionActivities">
-                                There is nothing much to say with GPA, but its toughness to strike a balance between 7 to 8 subjects and the overall of all have to be 9 or greater. Realizing the importance, I kept studying, memorizing by many ways, find parters to study with,...After a year, despite the decrease in the second semester due to new form of exam, I still managed to get an overall of 3.7 in GPA in grade 10.
-                            </p>
-                        </div>
-                        <div class="imageGPAwrapper">
-                            <img src="./images/GPA10.jfif" class="imageGPAmain">
+                    <div class="allGPAwrapper" style="align-items: center;">
+                        <p class="descriptionActivities">
+                            There is nothing much to say with GPA, but its toughness to strike a balance between 7 to 8 subjects and the overall of all have to be 9 or greater. Realizing the importance, I kept studying, memorizing by many ways, find parters to study with,...After a year, despite the decrease in the second semester due to new form of exam, I still managed to get an overall of 3.7 in GPA in grade 10.
+                        </p>
+                        <div class="imageOnlyNoJSWrapper" style="width: 70%;">
+                            <img src="./images/GPA10.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
                         </div>
                     </div>
                 </div>
@@ -165,7 +163,7 @@
                     <div class="allINTROARTwrapper">
                         <div class="INTROARTintroductionWrapper">
                             <p class="descriptionActivities">
-                                I joined the competition through a relative of my mother, throught 2 years, I met a lot of people, and also gain more experience in performing piano.The competition held in Hanoi National Academy of Music, a prestigious place for competition and also professional  performances.
+                                I joined the competition through a relative of my mother, throught 2 years, I met a lot of people, and also gain more experience in performing piano.The competition held in Hanoi National Academy of Music, a prestigious place for competition and also professional performances.
                             </p>
                         </div>
                         <div class="INTROART2022Wrapper">
@@ -191,7 +189,7 @@
                         <div class="IA2023allWrapper">
                             <div class="IA2023introductionWrapper">
                                 <p class="descriptionActivities">
-                                    This year, with a lot of more students from other places and also  the decreasing frequency of practising piano, I can not have 100 percent of ability.But my main purpose is still enjoying the performance,  spreading my music to every body
+                                    This year, with a lot of more students from other places and also the decreasing frequency of practising piano, I can not have 100 percent of ability.But my main purpose is still enjoying the performance, spreading my music to every body
                                 </p>
                             </div>
                             <div class="imageStorageWrapper">
@@ -228,45 +226,52 @@
                                 </p>
                             </div>
                             <div class="imageAndListWrapper">
-                                <div class="ITimageWrapper">
-                                    <!-- temporary -->
-                                    <img src="./images/thirdPrizeIT.jpg" class="ITimageMain">
+                                <div class="imageStorageNoJSWrapper">
+                                    <div class="imageOnlyNoJSWrapper" style="width:100%;">
+                                        <img src="./images/thirdPrizeIT.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                    </div>
                                 </div>
                                 <div class="ITlistWrapper">
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a id="codingPlatform" href="https://oj.vnoi.info/user/dophusuy/solved/">VNOI</a>
                                     </div>
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a id="codingPlatform" href="https://codeforces.com/submissions/deoonroi">Codeforces 1</a>
                                     </div>
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a id="codingPlatform" href="https://www.lqdoj.edu.vn/submissions/user/dophu/">Le Quy Don OJ</a>
                                     </div>
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a id="codingPlatform" href="https://leetcode.com/u/donguyenphu022008/">Leetcode</a>
                                     </div>
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a id="codingPlatform" href="https://cses.fi/user/220011">CSES</a>
                                     </div>
                                 </div>
                                 <div class="ITlistWrapper">
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a id="codingPlatform" href="https://codeforces.com/submissions/phuscpp">Codeforces 2</a>
                                     </div>
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a href="https://www.spoj.com/status/phu15/" id="codingPlatform">SPOJ</a>
                                     </div>
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a href="https://hnoj.edu.vn/user/DoPhu/solved/" id="codingPlatform">AMSOI</a>
                                     </div>
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a href="http://csloj.ddns.net/user/5794" id="codingPlatform">CSLOJ</a>
                                     </div>
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a href="https://lightoj.com/user/user-mwclp4pf" id="codingPlatform">LIGHTOJ</a>
                                     </div>
-                                    <div class="codingPlatformWrapper">
+                                    <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a href="https://oj.uz/profile/dophu" id="codingPlatform">OJUZ</a>
+                                    </div>
+                                </div>
+                                <div class="popUp">
+                                    <div class="popup">
+                                        <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                        <img src="./images/thirdPrizeIT.jpg" class="popUpImage">
                                     </div>
                                 </div>
                             </div>
@@ -276,6 +281,7 @@
             </div>
         </div>
     </div>
-    <?php require_once './elements/script.php';?>
+    <?php require_once './elements/script.php'; ?>
 </body>
+
 </html>
