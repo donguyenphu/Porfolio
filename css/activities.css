@@ -223,10 +223,6 @@
     border-radius: 15px;
     border: 2px solid black;
 }
-.imageOnlyNoJSWrapper:hover {
-    width: 20%;
-    transform: scale(1.1);
-}
 .TimelineMain {
     background-image: var(--symbol-wrapper);
     -webkit-background-clip: text;

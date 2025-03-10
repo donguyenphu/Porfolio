@@ -33,14 +33,29 @@ $level = './';
                                 I started learning IELTS in the last June, hundreds of listening audio, before taking the real IELTS exam in the 2nd November this year, I finished practising IELTS in Cambridge 19. Many evenings I have to come back home at 10 PM. After thoroughly preparing for the test, I managed to get my expected overall score.
                             </p>
                         </div>
-                        <div class="IELTSimageWrapper" style="width: 50%;">
-                            <img src="./images/IELTSonline.png" style="width: 100%; border-radius: 15px; border: 2px solid black;">
+                        <div class="imageStorageNoJSWrapper">
+                            <div class="imageOnlyNoJSWrapper" style="width: 100%;">
+                                <img src="./images/IELTSonline.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            </div>
+                            <div class="imageOnlyNoJSWrapper" style="width: 100%;">
+                                <img src="./images/ielts.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            </div>
+                        </div>
+                        <div class="popUp">
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/IELTSonline.png" class="popUpImage">
+                            </div>
+                            <div class="popup">
+                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                <img src="./images/ielts.jpg" class="popUpImage">
+                            </div>
                         </div>
                     </div>
                     <div class="allCourseraWrapper">
                         <div class="CourseraIntroductionWrapper">
                             <p class="descriptionActivities">
-                                I started learning Coursera last year, after a chain of 10th grade entrance exam, knowing that I have a big interest in coding, my mother registered a course of mathematical thinking in Coursera in purpose of building basis algorithmic thinking.After getting the first certificate, I turned to another coding language in Coursera: Python and C++, and I also have basic skills of building a website by only HTML,CSS and also basic functions of Mycrosoft Excel.
+                                I started learning Coursera last year, after a chain of 10th grade entrance exam, knowing that I have a big interest in coding, my mother registered a course of mathematical thinking in Coursera in purpose of building basis algorithmic thinking.After getting the first certificate, I turned to another coding language in Coursera: Python and C++, and I also have basic skills of building a website by only HTML,CSS and also basic knowledge of Mycrosoft Excel.
                             </p>
                         </div>
                         <div class="imageStorageNoJSWrapper">
@@ -58,28 +73,6 @@ $level = './';
                             </div>
                             <div class="imageOnlyNoJSWrapper">
                                 <img src="./images/Coursera WJ6RJ3EDZVX5-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                            </div>
-                        </div>
-                        <div class="popUp">
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/Coursera 5TT45KNXYJMG-1.png" class="popUpImage">
-                            </div>
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/Coursera 6P5LDX2HTE5X-1.png" class="popUpImage">
-                            </div>
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/Coursera H5Z3KX5UDHN8-1.png" class="popUpImage">
-                            </div>
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/Coursera U9LWRBHMXPKR-1.png" class="popUpImage">
-                            </div>
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/Coursera WJ6RJ3EDZVX5-1.png" class="popUpImage">
                             </div>
                         </div>
                     </div>
@@ -100,20 +93,6 @@ $level = './';
                                 <img src="./images/AMEB6.JPG" class="imageOnlyNoJSMain" style="cursor: pointer;">
                             </div>
                         </div>
-                        <div class="popUp">
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/AMEB4.JPG" class="popUpImage">
-                            </div>
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/AMEB5.PNG" class="popUpImage">
-                            </div>
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/AMEB6.JPG" class="popUpImage">
-                            </div>
-                        </div>
                     </div>
                     <div class="allZENDVNwrapper">
                         <div class="ZENDVNintroductionWrapper">
@@ -130,20 +109,6 @@ $level = './';
                             </div>
                             <div class="imageOnlyNoJSWrapper">
                                 <img src="./images/ZENDVN3.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                            </div>
-                        </div>
-                        <div class="popUp">
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/ZENDVN1.jfif" class="popUpImage">
-                            </div>
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/ZENDVN2.jfif" class="popUpImage">
-                            </div>
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/ZENDVN3.jpg" class="popUpImage">
                             </div>
                         </div>
                     </div>
@@ -173,15 +138,17 @@ $level = './';
                                 </p>
                             </div>
                             <div class="IA2022allImageWrapper">
-                                <div class="IA2022leftWrapper">
-                                    <img src="./images/IA2022.jpg" class="IA2022imageMain">
-                                </div>
-                                <div class="IA2022rightWrapper">
-                                    <div class="imageOnlyWrapper AMEB">
-                                        <img src="./images/INTROART2022.jpg" class="imageOnlyMain">
+                                <div class="imageStorageNoJSWrapper" style="width: 50%;">
+                                    <div class="imageOnlyNoJSWrapper" style="width: 100%; height: auto;">
+                                        <img src="./images/IA2022.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                     </div>
-                                    <div class="imageOnlyWrapper AMEB">
-                                        <img src="./images/IA2022prize.jpg" class="imageOnlyMain">
+                                </div>
+                                <div class="imageStorageNoJSWrapper" style="width: 50%; display: inline-block;">
+                                    <div class="imageOnlyNoJSWrapper" style="width: 100%;">
+                                        <img src="./images/INTROART2022.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                    </div>
+                                    <div class="imageOnlyNoJSWrapper" style="width: 100%;">
+                                        <img src="./images/IA2022prize.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                     </div>
                                 </div>
                             </div>
@@ -192,15 +159,15 @@ $level = './';
                                     This year, with a lot of more students from other places and also the decreasing frequency of practising piano, I can not have 100 percent of ability.But my main purpose is still enjoying the performance, spreading my music to every body
                                 </p>
                             </div>
-                            <div class="imageStorageWrapper">
-                                <div class="imageOnlyWrapper">
-                                    <img src="./images/IA2023.jpg" class="imageOnlyMain">
+                            <div class="imageStorageNoJSWrapper">
+                                <div class="imageOnlyNoJSWrapper" style="width: 33%;">
+                                    <img src="./images/IA2023.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                 </div>
-                                <div class="imageOnlyWrapper">
-                                    <img src="./images/INTROART2023.jpg" class="imageOnlyMain">
+                                <div class="imageOnlyNoJSWrapper" style="width: 33%;">
+                                    <img src="./images/IA2023prize.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                 </div>
-                                <div class="imageOnlyWrapper">
-                                    <img src="./images/IA2023prize.jfif" class="imageOnlyMain">
+                                <div class="imageOnlyNoJSWrapper" style="width: 33%;">
+                                    <img src="./images/INTROART2023.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                 </div>
                             </div>
                         </div>
@@ -210,12 +177,12 @@ $level = './';
                                     At that time, my passion to Chemistry is so large that I am ready learning and studying Chemistry everytime, everywhere.However, my subjectivity nearly got paid by my district chemistry competition, realizing that, I changed my studying style and being successful in the city competition, only 0.05 points to the first prize.
                                 </p>
                             </div>
-                            <div class="imageStorageWrapper">
-                                <div class="imageOnlyWrapper">
-                                    <img src="./images/3rdCHEMISTRY.jfif" class="imageOnlyMain">
+                            <div class="imageStorageNoJSWrapper">
+                                <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                                    <img src="./images/3rdCHEMISTRY.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                 </div>
-                                <div class="imageOnlyWrapper">
-                                    <img src="./images/2ndCHEMISTRY.jfif" class="imageOnlyMain">
+                                <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                                    <img src="./images/2ndCHEMISTRY.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                 </div>
                             </div>
                         </div>
@@ -266,12 +233,6 @@ $level = './';
                                     </div>
                                     <div class="codingPlatformWrapper" style="transition: 0.36s all ease-in-out;">
                                         <a href="https://oj.uz/profile/dophu" id="codingPlatform">OJUZ</a>
-                                    </div>
-                                </div>
-                                <div class="popUp">
-                                    <div class="popup">
-                                        <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                        <img src="./images/thirdPrizeIT.jpg" class="popUpImage">
                                     </div>
                                 </div>
                             </div>
