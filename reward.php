@@ -41,16 +41,6 @@ $level = './';
                                 <img src="./images/ielts.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
                             </div>
                         </div>
-                        <div class="popUp">
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/IELTSonline.png" class="popUpImage">
-                            </div>
-                            <div class="popup">
-                                <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                <img src="./images/ielts.jpg" class="popUpImage">
-                            </div>
-                        </div>
                     </div>
                     <div class="allCourseraWrapper">
                         <div class="CourseraIntroductionWrapper">
@@ -196,6 +186,12 @@ $level = './';
                                 <div class="imageStorageNoJSWrapper">
                                     <div class="imageOnlyNoJSWrapper" style="width:100%;">
                                         <img src="./images/thirdPrizeIT.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                    </div>
+                                    <div class="popUp">
+                                        <div class="popup">
+                                            <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                            <img src="./images/thirdPrizeIT.jpg" class="popUpImage">
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="ITlistWrapper">
