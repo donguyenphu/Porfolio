@@ -190,6 +190,7 @@ $level = './';
                                     <div class="popUp">
                                         <div class="popup">
                                             <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                            
                                             <img src="./images/thirdPrizeIT.jpg" class="popUpImage">
                                         </div>
                                     </div>

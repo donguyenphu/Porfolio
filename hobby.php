@@ -22,7 +22,7 @@
                 </div>
                 <div class="lineNoTitle"></div>
             </div>
-            <button  class = "buttonHobbies"><i class="fa-solid fa-chevron-down" id = "hobbyOne"></i></button>
+            <button id = "hobbyOne" class = "buttonHobbies"><i class="fa-solid fa-chevron-down"></i></button>
             <div class="CertificateNumberWrapper">
                 <h1 class="CertificateNumberMain">Coding</h1>
             </div>
