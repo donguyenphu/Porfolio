@@ -1,5 +1,5 @@
 let popUpImage = document.querySelector(".popUpImage");
-let imageOnlyNoJSMain = document.querySelectorAll(".imageOnlyNoJSMain"); /// all
+let imageOnlyNoJSMain = document.querySelectorAll(".imageOnlyNoJSMain");
 let popup = document.querySelector(".popup");
 let closeUp = document.querySelector('.close');
 
