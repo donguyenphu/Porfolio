@@ -187,12 +187,11 @@ $level = './';
                                     <div class="imageOnlyNoJSWrapper" style="width:100%;">
                                         <img src="./images/thirdPrizeIT.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
                                     </div>
-                                    <div class="popUp">
-                                        <div class="popup">
-                                            <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                            
-                                            <img src="./images/thirdPrizeIT.jpg" class="popUpImage">
-                                        </div>
+                                </div>
+                                <div class="popUp">
+                                    <div class="popup">
+                                        <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                                        <img src="" class="popUpImage">
                                     </div>
                                 </div>
                                 <div class="ITlistWrapper">
