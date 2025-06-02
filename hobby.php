@@ -48,12 +48,7 @@ $level = './';
                         <img src="./images/ITroom2.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
                     </div>
                 </div>
-                <div class="popUp">
-                    <div class="popup">
-                        <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                        <img src="" class="popUpImage">
-                    </div>
-                </div>
+                
                 <p class="descriptionActivities">
                     To be honest, that months were also a memorable time for me: Trying to learn as much as possible to get IT prizes as high as possible, Being passionate to this subject, buying keyboard as a motivation and better learning,sticking to my laptop and the IT room...
                 </p>
@@ -135,6 +130,12 @@ $level = './';
                     <!-- football pictures and video -->
                 </p>
             </div>
+        </div>
+    </div>
+    <div class="popUp">
+        <div class="popup">
+            <span class="close"><i class="fa-solid fa-xmark"></i></span>
+            <img src="" class="popUpImage">
         </div>
     </div>
     <?php require_once './elements/script.php'; ?>

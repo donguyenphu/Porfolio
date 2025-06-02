@@ -67,18 +67,29 @@
                     </div>
                     <div class="text1wrapper">
                         <p class="mainInfo">
-                            This is a robotic club, the members will take part in different robotic competition from many places, such as: FTC (First Tech Challenge), VORC (Vietnam Open Robotics Challenge) 
+                            This is a robotic club, the members will take part in different robotic competition from many places, such as: FTC (First Tech Challenge), VORC (Vietnam Open Robotics Challenge), FPTU AI & Robotis Challenge (FARC) 
                         </p>
                     </div>
                 </div>
                 <div class="introductionWrapper" style="margin-bottom: 20px;">
                     <!-- yellow -->
                     <div class="introduceTitlewrapper">
-                        <a class="introduce5main" href="./ECs/HPO.php">5. TECHGEN - Ignite Your Innovation - View more</a>
+                        <a class="introduce5main" href="./ECs/HPO.php">5. STEM Mentorship Program by Fulbright University - View more</a>
                     </div>
                     <div class="text1wrapper">
                         <p class="mainInfo">
-                            TECH stands for TECHNOLOGY, GEN stands for GENERATION.The main aim of the club is spreading and inspiring Technology through different generations.
+                            1-2 Mentee(s) will collaborate with 1-2 Mentor(s) to make a STEM project. Mentee(s) and Mentor(s) will write a reflection describing experience and product after 3 months of working.
+                        </p>
+                    </div>
+                </div>
+                <div class="introductionWrapper" style="margin-bottom: 20px;">
+                    <!-- yellow -->
+                    <div class="introduceTitlewrapper">
+                        <a class="introduce6main" href="./ECs/HPO.php">6. SCI Project - View more</a>
+                    </div>
+                    <div class="text1wrapper">
+                        <p class="mainInfo">
+                            Collecting and analyzing information from international science and technology competitions, we introduce and recommend choices to customers
                         </p>
                     </div>
                 </div>
@@ -176,11 +187,39 @@
                     </div>
                 </div>  
                 <h1 class="introInfo">2 / 2025: </h1>
-                <h1 class="mainInfo">Working as a co-founder in <a href="https://www.facebook.com/profile.php?id=61572083256650" id="TECHGEN">TECHGEN - Ignite Your Innovation</a> </h1>
+                <h1 class="mainInfo">Working as a mentee in <a href="https://www.facebook.com/story.php?story_fbid=1026410886190889&id=100064659610627&mibextid=wwXIfr&rdid=g2CV4XRnQ6FQZheC#" id="TECHGEN">STEM Mentorship Program by Fulbright University</a> </h1>
             </div>
             <div id="HPObeginWrapper">
                 <div class="activitiesImageWrapper">
-                    <img src="./images/donChapNhanTECHGEN.png" class="activitiesImageMain">
+                    <img src="./images/FulbrightStart.png" class="activitiesImageMain">
+                </div>
+            </div>
+            <div class="titleWrapper">
+                <div class="introWrapper">
+                    <div class="symbolWrapper">
+                        <i class="fa-solid fa-clock"></i>
+                    </div>
+                </div>  
+                <h1 class="introInfo">2 / 2025: </h1>
+                <h1 class="mainInfo">Working in Head of Technical Department in <a href="https://www.facebook.com/profile.php?id=61575271022933" id="SCI">SCI Project</a> </h1>
+            </div>
+            <div id="HPObeginWrapper">
+                <div class="activitiesImageWrapper">
+                    <img src="./images/SCI.png" class="activitiesImageMain">
+                </div>
+            </div>
+            <div class="titleWrapper">
+                <div class="introWrapper">
+                    <div class="symbolWrapper">
+                        <i class="fa-solid fa-clock"></i>
+                    </div>
+                </div>  
+                <h1 class="introInfo">5 / 2025: </h1>
+                <h1 class="mainInfo">Finishing the <a href="https://www.facebook.com/story.php?story_fbid=1026410886190889&id=100064659610627&mibextid=wwXIfr&rdid=g2CV4XRnQ6FQZheC#" id="TECHGEN">STEM Mentorship Program by Fulbright University</a> </h1>
+            </div>
+            <div id="HPObeginWrapper">
+                <div class="activitiesImageWrapper">
+                    <img src="./images/FulbrightEnd.png" class="activitiesImageMain">
                 </div>
             </div>
         </div>

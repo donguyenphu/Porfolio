@@ -2,30 +2,20 @@
     display: flex;
     gap: 10px;
 }
-#HHH {
-    background-image: linear-gradient(to right, rgb(222, 159, 211), rgb(225, 66, 182));
-    -webkit-background-clip: text;
-    color: transparent; 
-}
-#HHH, #ICM, #HPO, #TECHGEN, #TPCIRCLE {
+#HHH, #ICM, #HPO, #TECHGEN, #TPCIRCLE, #SCI {
     font-weight: 600;
     font-size: 25px;
     transition: 0.4s;
     transform: rotate(0deg);
     display: inline-block;
 }
-#HHH:hover, #ICM:hover, #HPO:hover, #TPCIRCLE:hover, #TECHGEN:hover  {
+#HHH:hover, #ICM:hover, #HPO:hover, #TPCIRCLE:hover, #TECHGEN:hover, #SCI:hover  {
     transform: rotate(-5deg);
 }
 #HHHbeginWrapper {
     display: flex;
     gap: 20px;
     margin-bottom: 30px;
-}
-#HPO {
-    background-image: linear-gradient(to right, rgb(234, 144, 144), rgb(197, 14, 14));
-    -webkit-background-clip: text;
-    color: transparent; 
 }
 #HPObeginWrapper {
     display: flex;
@@ -40,11 +30,6 @@
 .HPOimage {
     width: 100%;
     border-radius: 10px;
-}
-#ICM {
-    background-image: linear-gradient(to right, rgb(144, 169, 234), rgb(14, 75, 197));
-    -webkit-background-clip: text;
-    color: transparent; 
 }
 #ICMbeginWrapper {
     display: flex;
@@ -82,7 +67,7 @@
 .activities:hover {
     transform: scale(1.04);
 }
-.introduce1main, .introduce2main, .introduce3main, .introduce4main, .introduce5main {
+.introduce1main, .introduce2main, .introduce3main, .introduce4main, .introduce5main, .introduce6main {
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
     font-weight: 600;
@@ -109,6 +94,11 @@
 }
 .introduce5main, #TECHGEN{
     background-image: linear-gradient(315deg, rgba(87,59,92,1) 0%, rgba(137,0,255,1) 100%);
+    -webkit-background-clip: text;
+    color: transparent; 
+}
+.introduce6main, #SCI{
+    background-image: linear-gradient(315deg, rgb(61, 61, 61) 0%, rgb(192, 192, 192) 100%);
     -webkit-background-clip: text;
     color: transparent; 
 }
