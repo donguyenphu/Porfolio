@@ -27,11 +27,14 @@
                     </p>
                 </div>
                 <div class="imageStorageNoJSWrapper">
-                    <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                    <div class="imageOnlyNoJSWrapper" style="width: 33%;">
                         <img src="../images/tpcircleLogo.jpg" class="imageOnlyNoJSMain">
                     </div>
-                    <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                    <div class="imageOnlyNoJSWrapper" style="width: 33%;">
                         <img src="../images/tpcircleFTC.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 33%;">
+                        <img src="../images/tpcircle2024.jpg" class="imageOnlyNoJSMain">
                     </div>
                 </div>
                 <div class="descriptionWrapper">
