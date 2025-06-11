@@ -50,8 +50,11 @@
                     </p>
                 </div>
                 <div class="imageStorageNoJSWrapper">
-                    <div class="imageOnlyNoJSWrapper" style="width: 100%;">
+                    <div class="imageOnlyNoJSWrapper" style="width: 50%;">
                         <img src="../images/tpcircleFARCjpg.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                        <img src="../images/FARC2.jpg" class="imageOnlyNoJSMain" style="width: 100%;">
                     </div>
                 </div>
                 <div class="descriptionWrapper">

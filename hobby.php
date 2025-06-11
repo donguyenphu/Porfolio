@@ -35,11 +35,9 @@ $level = './';
                 <p class="descriptionActivities">
                     At first, I learned programming language Python as a beginning.
                 </p>
-                <!-- Image of coding python, especially filming python code... -->
                 <p class="descriptionActivities">
                     After a period of 3 months, I started learning Competitive Programming, as know as CP, for having knowledge of basic and enhanced algorithms. I joined a CP class, hosted by Mr Hung for my class, and learned programming language C++;
                 </p>
-                <!-- Images of studying in CP class (first time in IT room) -->
                 <div class="imageStorageNoJSWrapper">
                     <div class="imageOnlyNoJSWrapper" style="width:100%; flex: 1;">
                         <img src="./images/ITroom.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
@@ -48,7 +46,6 @@ $level = './';
                         <img src="./images/ITroom2.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
                     </div>
                 </div>
-                
                 <p class="descriptionActivities">
                     To be honest, that months were also a memorable time for me: Trying to learn as much as possible to get IT prizes as high as possible, Being passionate to this subject, buying keyboard as a motivation and better learning,sticking to my laptop and the IT room...
                 </p>
@@ -101,6 +98,7 @@ $level = './';
                     </div>
                 </div>
             </div>
+
             <button class="buttonHobbies"><i class="fa-solid fa-chevron-down"></i></button>
             <div class="CertificateNumberWrapper">
                 <h1 class="CertificateNumberMain">Piano</h1>
@@ -116,6 +114,7 @@ $level = './';
                     After a period of about 6 years of learning, piano formed root in my heart as a hobby and also a friend to relax. When fingers swifting on the piano, the soul feels calm and escapes the exhausted and depleted mentality
                 </p>
             </div>
+
             <button class="buttonHobbies"><i class="fa-solid fa-chevron-down"></i></button>
             <div class="CertificateNumberWrapper">
                 <h1 class="CertificateNumberMain">Robotics</h1>
