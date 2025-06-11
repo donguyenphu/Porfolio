@@ -113,7 +113,7 @@ $level = './';
                     During the time, I primarily learned classical music to enhance my technique. I also picked up some modern music in piano
                 </p>
                 <p class="descriptionActivities">
-                    After a period of about 6 years of learning, piano formed root in my heart as a hobby and also a friend to relax.
+                    After a period of about 6 years of learning, piano formed root in my heart as a hobby and also a friend to relax. When fingers swifting on the piano, the soul feels calm and escapes the exhausted and depleted mentality
                 </p>
             </div>
             <button class="buttonHobbies"><i class="fa-solid fa-chevron-down"></i></button>
@@ -143,6 +143,12 @@ $level = './';
                 </div>
                 <p class="descriptionActivities">
                     With the passion of robotics and STEM and also the desire to create a product that is applicable in real life, I participated in a STEM event of my school and luckily got the first prize.
+                </p>
+                <p class="descriptionActivities">
+                    You can view the detailed description of the project in <a href="https://docs.google.com/document/d/1tAQ-ChVuU36_orYgug8_t1yJ9VHxP1AX/edit">Here</a>
+                </p>
+                <p class="descriptionActivities">
+                    You can view the mechanism of the product in <a href="	https://wokwi.com/projects/428542154413764609">this Wokwi link</a>
                 </p>
                 <div class="imageStorageNoJSWrapper">
                     <div class="imageOnlyNoJSWrapper" style="width: 20%;">

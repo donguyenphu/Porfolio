@@ -13,10 +13,6 @@
         <?php require_once '../elements/header.php'; ?>
         <div class="seperate"></div>
         <div class="allWrapperDetails">
-            <!-- 6/2023 : hhh -->
-             <!-- 9/2023: icm -->
-                <!-- 2/2024 : endhhh -->
-              <!-- 5/2024: endicm -->
             <div class="lineAndTitleWrapper">
                 <div class="lineNoTitle"></div>
                 <div class="aboutMeTitleWrapper">
@@ -24,54 +20,34 @@
                 </div>
                 <div class="lineNoTitle"></div>
             </div>
-            <!--  -->
             <div class="outlineActivitiesWrapper">
                 <div class="angelICMprojectWrapper">
                     <p class="angelICMprojectMain">
-                        This is the first extracurricular activity I have ever joined.I learned a lot of lessons during this time, especially the heartwarming characteristic and sympathizing with people have difficult circumstances. The project started to activated in 6/ 2023, named NGOT.
+                        This is a STEM program hosted by Fulbright University. After registering for the program, 1-2 Mentees collaborate with 1-2 Mentees to make a STEM product. After a period of about 3 months, Mentee(s) and Mentor(s) will write a reflection of the product and submitting to the organizer for considering and giving certificates
                     </p>
                 </div>
                 <div class = "imageStorageWrapper">
                     <div class = "imageOnlyWrapper">
-                        <img src="../images/HHHlogo.jpg" class="imageOnlyMain">
+                        <img src="../images/ful1.jpg" class="imageOnlyMain">
                     </div>
                     <div class = "imageOnlyWrapper">
-                        <img src="../images/NGOTavatar.jpg" class="imageOnlyMain">
+                        <img src="../images/ful2.jpg" class="imageOnlyMain">
                     </div>
                 </div>
                 <div class="descriptionWrapper">
                     <p class ="text1main">
-                        My club's main purpose is using funded money to buy foods and color pencil for patients in Viet Duc hospital. To do this, we began selling handmade items online, such as: Fabric bracelet, flowers, and toys.
+                        Initially. There are 2 mentees and 1 mentor. We discussed and finally decided to make a website of storing courses from different fields and a forum for asking and answering questions. However, due to the disappearance of one mentee, the project is much more difficult to implement and finish
                     </p>
-                </div>
-                <div class = "imageStorageWrapper">
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/HHHproducts.jpg" class="imageOnlyMain">
-                    </div>
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/HHHproducts2.jpg" class="imageOnlyMain">
-                    </div>
                 </div>
                 <div class="descriptionWrapper">
                     <p class ="text1main">
-                        After 4 months of funding, our club successfully raised a total of <strong>11.495.000 VND </strong>. As I mentioned above, we bought items, wrapping in a bag and distrubite to patients in Viet Duc hospitals. 
+                        You can view my reflection in <a href="https://docs.google.com/document/d/1CqWXLrcoVArWsaWzRNMYq9f_GGM1S7ldpiXN3BONL1E/edit?tab=t.0">here</a> and also my mentor's reflection in <a href="https://docs.google.com/document/d/1589Li3BFEH-1X8hJZohpMXOy4_nZBjwz2763cGiF710/edit?tab=t.0">here</a>
                     </p>
                 </div>
-                <div class = "imageStorageWrapper">
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/NGOTimage.jpg" class="imageOnlyMain">
-                    </div>
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/HHHmoney.jpg" class="imageOnlyMain">
-                    </div>
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/NGOThospitalImage.jpg" class="imageOnlyMain">
-                    </div>
-                </div>
                 <div class="descriptionWrapper">
-                    <a href = "../imageStorage/HHHstorage.php">
+                    <a href = "https://www.nien.edu.vn/">
                         <p class ="text1main center">
-                            <strong>See more images about our trip in here!</strong>
+                            <strong>See more about our website here!</strong>
                         </p>
                     </a>
                 </div>

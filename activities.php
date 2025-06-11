@@ -63,7 +63,7 @@
                 <div class="introductionWrapper" style="margin-bottom: 20px;">
                     <!-- yellow -->
                     <div class="introduceTitlewrapper">
-                        <a class="introduce4main" href="./ECs/HPO.php">4. TPCircle Robotics Team - View more</a>
+                        <a class="introduce4main" href="./ECs/TPC.php">4. TPCircle Robotics Team - View more</a>
                     </div>
                     <div class="text1wrapper">
                         <p class="mainInfo">
@@ -74,7 +74,7 @@
                 <div class="introductionWrapper" style="margin-bottom: 20px;">
                     <!-- yellow -->
                     <div class="introduceTitlewrapper">
-                        <a class="introduce5main" href="./ECs/HPO.php">5. STEM Mentorship Program by Fulbright University - View more</a>
+                        <a class="introduce5main" href="./ECs/FUL.php">5. STEM Mentorship Program by Fulbright University - View more</a>
                     </div>
                     <div class="text1wrapper">
                         <p class="mainInfo">
@@ -85,7 +85,7 @@
                 <div class="introductionWrapper" style="margin-bottom: 20px;">
                     <!-- yellow -->
                     <div class="introduceTitlewrapper">
-                        <a class="introduce6main" href="./ECs/HPO.php">6. SCI Project - View more</a>
+                        <a class="introduce6main" href="./ECs/SCI.php">6. SCI Project - View more</a>
                     </div>
                     <div class="text1wrapper">
                         <p class="mainInfo">

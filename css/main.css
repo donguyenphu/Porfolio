@@ -18,7 +18,7 @@
     --section-link: linear-gradient(to right, rgb(111, 0, 255), rgb(183, 0, 255));
     --about-me-title-and-line: linear-gradient(45deg, rgb(255, 255, 255), rgb(67, 2, 218));
     --intro-info: #6450ad;
-    --symbol-wrapper: linear-gradient(to right, rgb(41, 225, 170), rgb(241, 48, 199));
+    --symbol-wrapper: linear-gradient(to right, rgb(41, 225, 170), rgb(116, 48, 241));
     --activities: rgb(207, 190, 190);
 }
 .darkmode {
