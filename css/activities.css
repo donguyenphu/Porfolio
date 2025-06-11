@@ -187,7 +187,7 @@
 }
 .activitiesImageMain {
     border-radius: 15px;
-    max-height: 90vh;
+    max-height: 60vh;
 }
 .detailMain {
     color: var(--activities);

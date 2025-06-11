@@ -118,16 +118,51 @@ $level = './';
             </div>
             <button class="buttonHobbies"><i class="fa-solid fa-chevron-down"></i></button>
             <div class="CertificateNumberWrapper">
-                <h1 class="CertificateNumberMain">Playing football</h1>
+                <h1 class="CertificateNumberMain">Robotics</h1>
             </div>
             <div class="descriptionHobbies">
                 <p class="descriptionActivities">
-                    Football is one of my favorite hobby when I was a kid. I also used to play a popular football game: DLS from 2018 to 2022.
-                    <!-- Maybe a pic from DLS games play and also video from youtube channel -->
+                    To be honest, robotics is not entirely robotics, it is my friend, my helper that helps me become a better person, a perfect balance between professional knowledge and networking
                 </p>
                 <p class="descriptionActivities">
-                    Up to now, I also join playing football with my friend when I am free. Each time my class football team participates in annual football tournament hosted by my school
-                    <!-- football pictures and video -->
+                    Despite short time exposing to robotics, I soon interested in the beauty of it. My youtube account soon filled with videos about robotics competition and also robotics project
+                </p>
+                <div class="imageStorageNoJSWrapper">
+                    <div class="imageOnlyNoJSWrapper" style="width: 25%;">
+                        <img src="./images/robotics1.png" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 25%;">
+                        <img src="./images/robotics2.png" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 25%;">
+                        <img src="./images/robotics3.png" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 25%;">
+                        <img src="./images/robotics4.png" class="imageOnlyNoJSMain">
+                    </div>
+                </div>
+                <p class="descriptionActivities">
+                    With the passion of robotics and STEM and also the desire to create a product that is applicable in real life, I participated in a STEM event of my school and luckily got the first prize.
+                </p>
+                <div class="imageStorageNoJSWrapper">
+                    <div class="imageOnlyNoJSWrapper" style="width: 20%;">
+                        <img src="./images/stemday.JPG" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 20%;">
+                        <img src="./images/stemday3.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 20%;">
+                        <img src="./images/stemday4.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 20%;">
+                        <img src="./images/stemday5.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 20%;">
+                        <img src="./images/stemday6.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                </div>
+                <p class="descriptionActivities">
+                    In the future I will spread the beauty of robotics to other people, strengthening the robotics network. I will also organize robotics events as a chance for spreading knowledge and supporting and finding people with the same passion as me.
                 </p>
             </div>
         </div>

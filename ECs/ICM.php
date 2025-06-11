@@ -28,7 +28,7 @@
             <div class="outlineActivitiesWrapper">
                 <div class="angelICMprojectWrapper">
                     <p class="angelICMprojectMain">
-                        Being in passion of Information Technology, I decided to seek for an extracurricular activity in my school about technology. Instantly, I found ICM
+                        This is the first extracurricular activity I have ever joined.I learned a lot of lessons during this time, especially the heartwarming characteristic and sympathizing with people have difficult circumstances. The project started to activated in 6/ 2023, named NGOT.
                     </p>
                 </div>
                 <div class = "imageStorageWrapper">
@@ -41,7 +41,7 @@
                 </div>
                 <div class="descriptionWrapper">
                     <p class ="text1main">
-                        My club mainly posts about different topics about Information Technology. We also celebrates events such as: Tet, Women's day,...
+                        My club's main purpose is using funded money to buy foods and color pencil for patients in Viet Duc hospital. To do this, we began selling handmade items online, such as: Fabric bracelet, flowers, and toys.
                     </p>
                 </div>
                 <div class = "imageStorageWrapper">
@@ -54,7 +54,7 @@
                 </div>
                 <div class="descriptionWrapper">
                     <p class ="text1main">
-                        After two rounds: Applying letter considering and teamwork, I successfully got passed and officially joined ICM as a member in the Design Team. 
+                        After 4 months of funding, our club successfully raised a total of <strong>11.495.000 VND </strong>. As I mentioned above, we bought items, wrapping in a bag and distrubite to patients in Viet Duc hospitals. 
                     </p>
                 </div>
                 <div class = "imageStorageWrapper">
@@ -69,20 +69,11 @@
                     </div>
                 </div>
                 <div class="descriptionWrapper">
-                    <p class ="text1main">
-                        During a year in the club, I have so many memories with my club: Going bonding, making selling items for the club, Advertising, Taking photos 
-                    </p>
-                </div>
-                <div class = "imageStorageWrapper">
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/NGOTimage.jpg" class="imageOnlyMain">
-                    </div>
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/HHHmoney.jpg" class="imageOnlyMain">
-                    </div>
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/NGOThospitalImage.jpg" class="imageOnlyMain">
-                    </div>
+                    <a href = "../imageStorage/HHHstorage.php">
+                        <p class ="text1main center">
+                            <strong>See more images about our trip in here!</strong>
+                        </p>
+                    </a>
                 </div>
             </div>
             <!--  -->
