@@ -17,7 +17,7 @@
         [
             'name' => 'Activities',
             'link' => 'activities.php',
-            'child' => ['HHH.php', 'HPO.php', 'ICM.php', 'HHHstorage.php']
+            'child' => ['HHH.php', 'HPO.php', 'ICM.php', 'HHHstorage.php', 'TPC.php', 'SCI.php', 'FUL.php', 'TPCstorage.php']
         ],
         [
             'name' => 'Reward',

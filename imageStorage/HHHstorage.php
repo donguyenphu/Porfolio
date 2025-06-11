@@ -62,6 +62,12 @@
             </div>
         </div>
     </div>
+    <div class="popUp">
+        <div class="popup">
+            <span class="close"><i class="fa-solid fa-xmark"></i></span>
+            <img src="" class="popUpImage">
+        </div>
+    </div>
     <?php require_once '../elements/script.php';?>
 </body>
 </html>

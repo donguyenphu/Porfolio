@@ -64,15 +64,7 @@ $level = '../';
                         <img src="../images/ICMcert.jpg" class="imageOnlyNoJSMain">
                     </div>
                 </div>
-                <div class="descriptionWrapper">
-                    <a href="../imageStorage/HHHstorage.php">
-                        <p class="text1main center">
-                            <strong>See more images about our trip in here!</strong>
-                        </p>
-                    </a>
-                </div>
             </div>
-            <!--  -->
         </div>
     </div>
     <div class="popUp">

@@ -13,10 +13,6 @@
         <?php require_once '../elements/header.php'; ?>
         <div class="seperate"></div>
         <div class="allWrapperDetails">
-            <!-- 6/2023 : hhh -->
-             <!-- 9/2023: icm -->
-                <!-- 2/2024 : endhhh -->
-              <!-- 5/2024: endicm -->
             <div class="lineAndTitleWrapper">
                 <div class="lineNoTitle"></div>
                 <div class="aboutMeTitleWrapper">
@@ -24,59 +20,54 @@
                 </div>
                 <div class="lineNoTitle"></div>
             </div>
-            <!--  -->
             <div class="outlineActivitiesWrapper">
                 <div class="angelICMprojectWrapper">
                     <p class="angelICMprojectMain">
-                        This is the first extracurricular activity I have ever joined.I learned a lot of lessons during this time, especially the heartwarming characteristic and sympathizing with people have difficult circumstances. The project started to activated in 6/ 2023, named NGOT.
+                        Formerly a science research club of Tran Phu High School for the Gifted, TPCircle participates in famous robotics competitions in many places. After  3 rounds: Application round, Interview round, and Teamwork round, the candidate is chosen to be the official member of the club
                     </p>
                 </div>
-                <div class = "imageStorageWrapper">
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/HHHlogo.jpg" class="imageOnlyMain">
+                <div class="imageStorageNoJSWrapper">
+                    <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                        <img src="../images/tpcircleLogo.jpg" class="imageOnlyNoJSMain">
                     </div>
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/NGOTavatar.jpg" class="imageOnlyMain">
+                    <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                        <img src="../images/tpcircleFTC.jpg" class="imageOnlyNoJSMain">
                     </div>
                 </div>
                 <div class="descriptionWrapper">
                     <p class ="text1main">
-                        My club's main purpose is using funded money to buy foods and color pencil for patients in Viet Duc hospital. To do this, we began selling handmade items online, such as: Fabric bracelet, flowers, and toys.
+                        I joined the club just in time for the important upcoming robotics competition: FIRST Tech Challeneg 2024-2025. The competition consisted of robotics team from all over Vietnam and also teams from Thailand, Indonesia and Laos. Despite limited funding and no mentor, we still enjoyed and thrived on hard-working, self-learning and cooperation
                     </p>
                 </div>
-                <div class = "imageStorageWrapper">
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/HHHproducts.jpg" class="imageOnlyMain">
-                    </div>
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/HHHproducts2.jpg" class="imageOnlyMain">
+                <div class="imageStorageNoJSWrapper">
+                    <div class="imageOnlyNoJSWrapper" style="width: 100%;">
+                        <img src="../images/tpcircleFTC2.jpg" class="imageOnlyNoJSMain">
                     </div>
                 </div>
                 <div class="descriptionWrapper">
                     <p class ="text1main">
-                        After 4 months of funding, our club successfully raised a total of <strong>11.495.000 VND </strong>. As I mentioned above, we bought items, wrapping in a bag and distrubite to patients in Viet Duc hospitals. 
+                        The second competition we participated in is FPTU AI & Robotics Challenge 2025. With the participation of 591 teams from all over Vietnam, the robotics team will be divided to compete the AI round in corresponding FPT headquarter. Ranked 88 out of 220 teams to go to the robotics round, we are actively preparing for the next round.
                     </p>
                 </div>
-                <div class = "imageStorageWrapper">
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/NGOTimage.jpg" class="imageOnlyMain">
-                    </div>
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/HHHmoney.jpg" class="imageOnlyMain">
-                    </div>
-                    <div class = "imageOnlyWrapper">
-                        <img src="../images/NGOThospitalImage.jpg" class="imageOnlyMain">
+                <div class="imageStorageNoJSWrapper">
+                    <div class="imageOnlyNoJSWrapper" style="width: 100%;">
+                        <img src="../images/tpcircleFARCjpg.jpg" class="imageOnlyNoJSMain">
                     </div>
                 </div>
                 <div class="descriptionWrapper">
-                    <a href = "../imageStorage/HHHstorage.php">
+                    <a href = "../imageStorage/TPCstorage.php">
                         <p class ="text1main center">
-                            <strong>See more images about our trip in here!</strong>
+                            <strong>See more images about our images in robotics competitions here!</strong>
                         </p>
                     </a>
                 </div>
             </div>
-            <!--  -->
+        </div>
+    </div>
+    <div class="popUp">
+        <div class="popup">
+            <span class="close"><i class="fa-solid fa-xmark"></i></span>
+            <img src="" class="popUpImage">
         </div>
     </div>
     <?php require_once '../elements/script.php';?>
