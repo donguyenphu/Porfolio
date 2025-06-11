@@ -36,8 +36,19 @@
                 </div>
                 <div class="descriptionWrapper">
                     <p class ="text1main">
-                        Initially. There are 2 mentees and 1 mentor. We discussed and finally decided to make a website of storing courses from different fields and a forum for asking and answering questions. However, due to the disappearance of one mentee, the project is much more difficult to implement and finish
+                        Initially. There are 2 mentees and 1 mentor. We discussed and finally decided to make a website of storing courses from different fields and a forum for asking and answering questions. However, due to the disappearance of one mentee, the project is much more difficult to implement and finish. Longer lines of code, more databases,...Despite the situation, we enjoy and finish the project together
                     </p>
+                </div>
+                <div class="imageStorageNoJSWrapper">
+                    <div class="imageOnlyNoJSWrapper" style="width: 33%;">
+                        <img src="../images/ful3.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 33%;">
+                        <img src="../images/ful4.jpg" class="imageOnlyNoJSMain">
+                    </div>
+                    <div class="imageOnlyNoJSWrapper" style="width: 33%;">
+                        <img src="../images/ful5.jpg" class="imageOnlyNoJSMain">
+                    </div>
                 </div>
                 <div class="descriptionWrapper">
                     <p class ="text1main">
@@ -53,6 +64,12 @@
                 </div>
             </div>
             <!--  -->
+        </div>
+    </div>
+    <div class="popUp">
+        <div class="popup">
+            <span class="close"><i class="fa-solid fa-xmark"></i></span>
+            <img src="" class="popUpImage">
         </div>
     </div>
     <?php require_once '../elements/script.php';?>
