@@ -23,108 +23,129 @@ $level = './';
                 <div class="lineNoTitle"></div>
             </div>
             <div class="PrizeAndCertificateWrapper">
+                <button class="buttonHobbies"><i class="fa-solid fa-chevron-down"></i></button>
                 <div class="CertificateNumberWrapper">
                     <h1 class="CertificateNumberMain">Certificate</h1>
                 </div>
-                <div class="allCertificateWrapper">
-                    <div class="allIELTSwrapper">
-                        <div class="IELTSintroductionWrapper">
-                            <p class="descriptionActivities">
-                                I started learning IELTS in the last June, hundreds of listening audio, before taking the real IELTS exam in the 2nd November this year, I finished practising IELTS in Cambridge 19. Many evenings I have to come back home at 10 PM. After thoroughly preparing for the test, I managed to get my expected overall score.
-                            </p>
-                        </div>
-                        <div class="imageStorageNoJSWrapper">
-                            <div class="imageOnlyNoJSWrapper" style="width: 100%;">
-                                <img src="./images/IELTSonline.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                <div class="descriptionHobbies" style="background-color: black; padding: 0;">
+                    <div class="allCertificateWrapper">
+                        <div class="allIELTSwrapper">
+                            <div class="IELTSintroductionWrapper">
+                                <p class="descriptionActivities">
+                                    I started learning IELTS in the last June, hundreds of listening audio, before taking the real IELTS exam in the 2nd November this year, I finished practising IELTS in Cambridge 19. Many evenings I have to come back home at 10 PM. After thoroughly preparing for the test, I managed to get my expected overall score.
+                                </p>
                             </div>
-                            <div class="imageOnlyNoJSWrapper" style="width: 100%;">
-                                <img src="./images/ielts.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="allCourseraWrapper">
-                        <div class="CourseraIntroductionWrapper">
-                            <p class="descriptionActivities">
-                                I started learning Coursera last year, after a chain of 10th grade entrance exam, knowing that I have a big interest in coding, my mother registered a course of mathematical thinking in Coursera in purpose of building basis algorithmic thinking.After getting the first certificate, I turned to another coding language in Coursera: Python and C++, and I also have basic skills of building a website by only HTML,CSS and also basic knowledge of Mycrosoft Excel.
-                            </p>
-                        </div>
-                        <div class="imageStorageNoJSWrapper">
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/Coursera 5TT45KNXYJMG-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                            </div>
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/Coursera 6P5LDX2HTE5X-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                            </div>
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/Coursera H5Z3KX5UDHN8-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                            </div>
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/Coursera U9LWRBHMXPKR-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                            </div>
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/Coursera WJ6RJ3EDZVX5-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            <div class="imageStorageNoJSWrapper" style="width: 50%;">
+                                <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                                    <img src="./images/IELTSonline.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                                    <img src="./images/ielts.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="allAMEBwrapper">
-                        <div class="AMEBintroductionWrapper">
-                            <p class="descriptionActivities">
-                                AMEB , which stands for Australian Music Examination Board, is a prestigious center for learning Art and Music, such as: Guitar, dancing, drawing, piano, drum and so on. I started learning AMEB when I was in grade 8 in purpose of relaxation and also find a side hustle for myself. After a period of 4 years learning my teacher, mr Son, I successfully passed 3 grades in AMEB: Grade 4, Grade 5 and Grade 6.
-                            </p>
-                        </div>
-                        <div class="imageStorageNoJSWrapper">
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/AMEB4.JPG" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                        <div class="allIELTSwrapper">
+                            <div class="IELTSintroductionWrapper">
+                                <p class="descriptionActivities">
+                                    So to speak, Although SAT Math is relatively normal, SAT Verbal is another level for me. You have to study and also practice hard. Some days before the official exam, I have to sleep only 3-4 hours a day to revise the SAT as much as possible. I took the first SAT test on 3rd May; Although the SAT Math's score was absolute, I need to study much harder for the SAT Verbal. The next turn was on June 7th. Due to careful revise and studying, my perfomance was better than the last time
+                                </p>
                             </div>
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/AMEB5.PNG" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                            </div>
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/AMEB6.JPG" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            <div class="imageStorageNoJSWrapper" style="width: 50%;">
+                                <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                                    <img src="./images/SAT1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                                    <img src="./images/SAT1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="allZENDVNwrapper">
-                        <div class="ZENDVNintroductionWrapper">
-                            <p class="descriptionActivities">
-                                To be honest, this is where my main interest comes and grows.I started learning ZENDVN in 2023.When I want to have basic knowledge in the workplace in the future, I was taught a host of language, coming form basic algorithmic thinking and solving.
-                            </p>
+                        <div class="allCourseraWrapper">
+                            <div class="CourseraIntroductionWrapper">
+                                <p class="descriptionActivities">
+                                    I started learning Coursera last year, after a chain of 10th grade entrance exam, knowing that I have a big interest in coding, my mother registered a course of mathematical thinking in Coursera in purpose of building basis algorithmic thinking.After getting the first certificate, I turned to another coding language in Coursera: Python and C++, and I also have basic skills of building a website by only HTML,CSS and also basic knowledge of Mycrosoft Excel.
+                                </p>
+                            </div>
+                            <div class="imageStorageNoJSWrapper">
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/Coursera 5TT45KNXYJMG-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/Coursera 6P5LDX2HTE5X-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/Coursera H5Z3KX5UDHN8-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/Coursera U9LWRBHMXPKR-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/Coursera WJ6RJ3EDZVX5-1.png" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                            </div>
                         </div>
-                        <div class="imageStorageNoJSWrapper">
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/ZENDVN1.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                        <div class="allAMEBwrapper">
+                            <div class="AMEBintroductionWrapper">
+                                <p class="descriptionActivities">
+                                    AMEB , which stands for Australian Music Examination Board, is a prestigious center for learning Art and Music, such as: Guitar, dancing, drawing, piano, drum and so on. I started learning AMEB when I was in grade 8 in purpose of relaxation and also find a side hustle for myself. After a period of 4 years learning my teacher, mr Son, I successfully passed 3 grades in AMEB: Grade 4, Grade 5 and Grade 6.
+                                </p>
                             </div>
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/ZENDVN2.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                            </div>
-                            <div class="imageOnlyNoJSWrapper">
-                                <img src="./images/ZENDVN3.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                            <div class="imageStorageNoJSWrapper">
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/AMEB4.JPG" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/AMEB5.PNG" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/AMEB6.JPG" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="allGPAwrapper" style="align-items: center;">
-                        <p class="descriptionActivities">
-                            There is nothing much to say with GPA, but its toughness to strike a balance between 7 to 8 subjects and the overall of all have to be 9 or greater. Realizing the importance, I kept studying, memorizing by many ways, find parters to study with,...After a year, despite the decrease in the second semester due to new form of exam, I still managed to get an overall of 3.7 in GPA in grade 10.
-                        </p>
-                        <div class="imageOnlyNoJSWrapper" style="width: 70%;">
-                            <img src="./images/GPA10.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                        <div class="allZENDVNwrapper">
+                            <div class="ZENDVNintroductionWrapper">
+                                <p class="descriptionActivities">
+                                    To be honest, this is where my main interest comes and grows.I started learning ZENDVN in 2023.When I want to have basic knowledge in the workplace in the future, I was taught a host of language, coming form basic algorithmic thinking and solving.
+                                </p>
+                            </div>
+                            <div class="imageStorageNoJSWrapper">
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/ZENDVN1.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/ZENDVN2.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper">
+                                    <img src="./images/ZENDVN3.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="allGPAwrapper" style="align-items: center; display: inline-block;">
+                            <div style="display: flex; align-items: center; gap: 15px;">
+                                <p class="descriptionActivities">
+                                    There is nothing much to say with GPA, but its toughness to strike a balance between 7 to 8 subjects and the overall of all have to be 9 or greater. Realizing the importance, I kept studying, memorizing by many ways, find parters to study with,...After a year, despite the decrease in the second semester due to new form of exam, I still managed to get an overall of 9.2 in GPA in grade 10. After finishing and reducing my time for programming and IT class, I noticed more for stuyding and enhancing my GPA. In spite of lackage of understanding the lessons due to a period in grade 10 for progamming, I still managed to strike a good balance between subjects and finally finished grade 11 with the overall GPA of 9.32
+                                </p>
+                                <div class="imageStorageNoJSWrapper" style="width: 300%;">
+                                    <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                                        <img src="./images/GPA10.jfif" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                    </div>
+                                    <div class="imageOnlyNoJSWrapper" style="width: 50%;">
+                                        <img src="./images/gpa11.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
+                <button class="buttonHobbies"><i class="fa-solid fa-chevron-down"></i></button>
                 <div class="CertificateNumberWrapper">
                     <h1 class="CertificateNumberMain">Prize</h1>
                 </div>
-                <div class="allPrizeWrapper">
-                    <div class="allINTROARTwrapper">
-                        <div class="INTROARTintroductionWrapper">
-                            <p class="descriptionActivities">
-                                I joined the competition through a relative of my mother, throught 2 years, I met a lot of people, and also gain more experience in performing piano.The competition held in Hanoi National Academy of Music, a prestigious place for competition and also professional performances.
-                            </p>
-                        </div>
-                        <div class="INTROART2022Wrapper">
+                <div class="descriptionHobbies" style="background-color: black; padding: 0;">
+                    <div class="allPrizeWrapper">
+                        <div class="INTROART2022Wrapper" style="background-color: #c2c0c0;">
                             <div class="IA2022introductionWrapper">
                                 <p class="descriptionActivities">
-                                    To be honest, I prepared very carefully before this competition, thoroughly practising my piano sheet and the achievement is the first prize!
+                                    I joined the competition through a relative of my mother, throught 2 years, I met a lot of people, and also gain more experience in performing piano.The competition held in Hanoi National Academy of Music, a prestigious place for competition and also professional performances. To be honest, I prepared very carefully before this competition, thoroughly practising my piano sheet and the achievement is the first prize!
                                 </p>
                             </div>
                             <div class="IA2022allImageWrapper">
@@ -143,10 +164,10 @@ $level = './';
                                 </div>
                             </div>
                         </div>
-                        <div class="IA2023allWrapper">
+                        <div class="IA2023allWrapper" style="background-color: #c2c0c0;">
                             <div class="IA2023introductionWrapper">
                                 <p class="descriptionActivities">
-                                    This year, with a lot of more students from other places and also the decreasing frequency of practising piano, I can not have 100 percent of ability.But my main purpose is still enjoying the performance, spreading my music to every body
+                                    This year, with a lot of more students from other places and also the decreasing frequency of practising piano, I can not have 100 percent of ability. But my main purpose is still enjoying the performance, spreading my music to every body
                                 </p>
                             </div>
                             <div class="imageStorageNoJSWrapper">
@@ -161,7 +182,25 @@ $level = './';
                                 </div>
                             </div>
                         </div>
-                        <div class="CHEMISTRYallWrapper">
+                        <div class="IA2023allWrapper" style="background-color: #c2c0c0;">
+                            <div class="IA2023introductionWrapper">
+                                <p class="descriptionActivities">
+                                    This competition is organized by Hai Phong College of Culture and Arts for AMEB students in Hai Phong City. There will be a total of 4 divisions: A, B, C, and D. Each division has third prize, second prize, first prize, and only 1 special prize. Each student was divided into division suitable for their age. Luckily, with gained experiences and thorough preparation, I finished with the first prize.
+                                </p>
+                            </div>
+                            <div class="imageStorageNoJSWrapper">
+                                <div class="imageOnlyNoJSWrapper" style="width: 33%;">
+                                    <img src="./images/AMEBHP1.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper" style="width: 33%;">
+                                    <img src="./images/AMEBHP2.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                                <div class="imageOnlyNoJSWrapper" style="width: 33%;">
+                                    <img src="./images/AMEBHP3.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="CHEMISTRYallWrapper" style="background-color: #c2c0c0;">
                             <div class="CHEMISTRYintroductionWrapper">
                                 <p class="descriptionActivities">
                                     At that time, my passion to Chemistry is so large that I am ready learning and studying Chemistry everytime, everywhere.However, my subjectivity nearly got paid by my district chemistry competition, realizing that, I changed my studying style and being successful in the city competition, only 0.05 points to the first prize.
@@ -176,7 +215,7 @@ $level = './';
                                 </div>
                             </div>
                         </div>
-                        <div class="ITallWrapper">
+                        <div class="ITallWrapper" style="background-color: #c2c0c0;">
                             <div class="ITintroductionWrapper">
                                 <p class="descriptionActivities">
                                     When I was in grade 10, I switched from Chemistry to Information Technology due to my orientation in Computer Science. Honestly, My passion to coding is even larger than Chemistry. I even spent 3 to 4 hours only thinking and solving problems in coding. I tried and completed a lot of problems from easy to hard in Coding platforms below.
@@ -186,12 +225,6 @@ $level = './';
                                 <div class="imageStorageNoJSWrapper">
                                     <div class="imageOnlyNoJSWrapper" style="width:100%;">
                                         <img src="./images/thirdPrizeIT.jpg" class="imageOnlyNoJSMain" style="cursor: pointer;">
-                                    </div>
-                                </div>
-                                <div class="popUp">
-                                    <div class="popup">
-                                        <span class="close"><i class="fa-solid fa-xmark"></i></span>
-                                        <img src="" class="popUpImage">
                                     </div>
                                 </div>
                                 <div class="ITlistWrapper">
@@ -236,6 +269,12 @@ $level = './';
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="popUp">
+        <div class="popup">
+            <span class="close"><i class="fa-solid fa-xmark"></i></span>
+            <img src="" class="popUpImage">
         </div>
     </div>
     <?php require_once './elements/script.php'; ?>
